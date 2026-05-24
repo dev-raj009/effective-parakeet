@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-05-24T11:02:11",
+  "total_batches": 10,
+  "batches": [
+    {
+      "batch_id": "3465",
+      "batch_name": "NCC 2026 (NEET CRASH COURSE)",
+      "total_subjects": 1,
+      "total_topics": 8,
+      "total_videos": 145,
+      "total_pdfs": 112,
+      "scraped_at": "2026-05-24T10:53:26",
+      "file": "batch_3465_NCC_2026_(NEET_CRASH_COURSE).json"
+    },
+    {
+      "batch_id": "3464",
+      "batch_name": "UP SI - 2026 (Batch-07)",
+      "total_subjects": 1,
+      "total_topics": 18,
+      "total_videos": 1203,
+      "total_pdfs": 2106,
+      "scraped_at": "2026-05-24T10:54:58",
+      "file": "batch_3464_UP_SI_-_2026_(Batch-07).json"
+    },
+    {
+      "batch_id": "3463",
+      "batch_name": "Hindi Super Special-02",
+      "total_subjects": 1,
+      "total_topics": 3,
+      "total_videos": 118,
+      "total_pdfs": 159,
+      "scraped_at": "2026-05-24T10:55:01",
+      "file": "batch_3463_Hindi_Super_Special-02.json"
+    },
+    {
+      "batch_id": "3462",
+      "batch_name": "Science Special-31",
+      "total_subjects": 1,
+      "total_topics": 4,
+      "total_videos": 105,
+      "total_pdfs": 72,
+      "scraped_at": "2026-05-24T10:55:04",
+      "file": "batch_3462_Science_Special-31.json"
+    },
+    {
+      "batch_id": "3461",
+      "batch_name": "Hindi Special-57",
+      "total_subjects": 1,
+      "total_topics": 6,
+      "total_videos": 167,
+      "total_pdfs": 3,
+      "scraped_at": "2026-05-24T10:55:48",
+      "file": "batch_3461_Hindi_Special-57.json"
+    },
+    {
+      "batch_id": "3460",
+      "batch_name": "Banking Spl-48",
+      "total_subjects": 1,
+      "total_topics": 10,
+      "total_videos": 702,
+      "total_pdfs": 243,
+      "scraped_at": "2026-05-24T10:55:56",
+      "file": "batch_3460_Banking_Spl-48.json"
+    },
+    {
+      "batch_id": "3459",
+      "batch_name": "BPSC Tre 4.0 (1 to 5th)",
+      "total_subjects": 1,
+      "total_topics": 17,
+      "total_videos": 430,
+      "total_pdfs": 12,
+      "scraped_at": "2026-05-24T10:57:48",
+      "file": "batch_3459_BPSC_Tre_4.0_(1_to_5th).json"
+    },
+    {
+      "batch_id": "3458",
+      "batch_name": "BPSC TRE 4.0 (6 to 8th)",
+      "total_subjects": 1,
+      "total_topics": 22,
+      "total_videos": 399,
+      "total_pdfs": 12,
+      "scraped_at": "2026-05-24T11:01:37",
+      "file": "batch_3458_BPSC_TRE_4.0_(6_to_8th).json"
+    },
+    {
+      "batch_id": "3457",
+      "batch_name": "DSSSB ASO 2026",
+      "total_subjects": 1,
+      "total_topics": 6,
+      "total_videos": 568,
+      "total_pdfs": 810,
+      "scraped_at": "2026-05-24T11:01:49",
+      "file": "batch_3457_DSSSB_ASO_2026.json"
+    },
+    {
+      "batch_id": "3456",
+      "batch_name": "SSC Pratham-17",
+      "total_subjects": 1,
+      "total_topics": 8,
+      "total_videos": 735,
+      "total_pdfs": 24,
+      "scraped_at": "2026-05-24T11:02:11",
+      "file": "batch_3456_SSC_Pratham-17.json"
+    }
+  ]
+}

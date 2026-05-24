@@ -1,0 +1,3905 @@
+{
+  "batch_id": "3458",
+  "batch_name": "BPSC TRE 4.0 (6 to 8th)",
+  "scraped_at": "2026-05-24T11:01:37",
+  "total_subjects": 1,
+  "total_topics": 22,
+  "total_videos": 399,
+  "total_pdfs": 12,
+  "subjects": [
+    {
+      "id": 0,
+      "name": "General",
+      "total_topics": 22,
+      "topics": [
+        {
+          "id": 36225,
+          "name": "Intro",
+          "total_videos": 2,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "BPSC Tre 4.0 (6 to 8th) | New Batch Introduction | By Uday Sir | Careerwill App",
+              "class_no": "1",
+              "video_id": "https://www.youtube.com/watch?v=nCpw8OsO0Lg",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "60 Rules of Grammar | Basic English Grammar | Part 01 | English by Ankul Sir #ssc #ssccgl",
+              "class_no": "2",
+              "video_id": "https://www.youtube.com/watch?v=jld21LshxDo",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36336,
+          "name": "Maths",
+          "total_videos": 42,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Maths | Number System (संख्या पद्धति)",
+              "class_no": "1",
+              "video_id": "4700385_0_8988271447185043",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Maths | Number System (संख्या पद्धति)",
+              "class_no": "2",
+              "video_id": "4705388_0_5924033144860642",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Maths | Dinsthility Rules (भाज्यता के नियम)",
+              "class_no": "3",
+              "video_id": "4706352_0_6281051378497467",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Maths | Dinsthility Rules (भाज्यता के नियम)",
+              "class_no": "4",
+              "video_id": "4707320_0_6428176709198786",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Maths | Dinsthility Rules (भाज्यता के नियम)",
+              "class_no": "5",
+              "video_id": "4709544_0_2200685918031680",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Maths | Division",
+              "class_no": "6",
+              "video_id": "4713253_0_7105558363750017",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Maths | Remainder Theorem",
+              "class_no": "7",
+              "video_id": "4713917_0_2623029097841782",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Maths | Fraction ( भिन्न )",
+              "class_no": "8",
+              "video_id": "4722132_0_3381226717575560",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Maths | Fraction ( भिन्न )",
+              "class_no": "9",
+              "video_id": "4723334_0_8996081571521911",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Maths | Fraction ( भिन्न )",
+              "class_no": "10",
+              "video_id": "4725580_0_6479312694315495",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Maths | Fraction ( भिन्न )",
+              "class_no": "11",
+              "video_id": "4727272_0_6919046091116459",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Maths | Fraction ( भिन्न )",
+              "class_no": "12",
+              "video_id": "4728529_0_9094934066218380",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Maths | Factors ( गुणनखंड)",
+              "class_no": "13",
+              "video_id": "4729348_0_2654195963763231",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Maths | Factors ( गुणनखंड)",
+              "class_no": "14",
+              "video_id": "4730857_0_2365652956769257",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Maths | LCM & HCF",
+              "class_no": "15",
+              "video_id": "4733463_0_5021826307351888",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Maths | LCM & HCF",
+              "class_no": "16",
+              "video_id": "4734517_0_1668650221012346",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Maths | LCM & HCF",
+              "class_no": "17",
+              "video_id": "4735488_0_4211297527789526",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Maths | LCM & HCF",
+              "class_no": "18",
+              "video_id": "4736911_0_9671950585488640",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Maths | LCM & HCF",
+              "class_no": "19",
+              "video_id": "4739487_0_6317649930064146",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Maths | LCM & HCF",
+              "class_no": "20",
+              "video_id": "4740552_0_7244177313523697",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Maths | Exponent ( घात )",
+              "class_no": "21",
+              "video_id": "4741805_0_1095264562572039",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Maths | Exponent ( घात )",
+              "class_no": "22",
+              "video_id": "4743043_0_7675097885776346",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Maths | Exponent ( घात )",
+              "class_no": "23",
+              "video_id": "4744800_0_7438399239075051",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Maths | Exponent ( घात )",
+              "class_no": "24",
+              "video_id": "4745788_0_4840707516971614",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Maths | Exponent ( घात )",
+              "class_no": "25",
+              "video_id": "4746487_0_1027860752585239",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Maths | Percentage ( प्रतिशत )",
+              "class_no": "26",
+              "video_id": "4747335_0_7165146624846064",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Maths | Percentage ( प्रतिशत )",
+              "class_no": "27",
+              "video_id": "4750114_0_3520683641680684",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Maths | Percentage ( प्रतिशत )",
+              "class_no": "28",
+              "video_id": "4751480_0_6590435631666308",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Maths | Percentage ( प्रतिशत )",
+              "class_no": "29",
+              "video_id": "4753363_0_2166736877419425",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Maths | Percentage ( प्रतिशत )",
+              "class_no": "31",
+              "video_id": "4756442_0_9619135759306715",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Maths | Percentage ( प्रतिशत )",
+              "class_no": "32",
+              "video_id": "4757330_0_2882122594142264",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Maths | Percentage ( प्रतिशत )",
+              "class_no": "33",
+              "video_id": "4758222_0_4682316051512333",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Maths | Profit & Loss (लाभ और हानि)",
+              "class_no": "34",
+              "video_id": "4759311_0_4253578207536237",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Maths | Profit & Loss (लाभ और हानि)",
+              "class_no": "35",
+              "video_id": "4760145_0_5261288779679873",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Maths | Profit & Loss (लाभ और हानि)",
+              "class_no": "36",
+              "video_id": "4761888_0_6332372231064193",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Maths | Profit & Loss (लाभ और हानि)",
+              "class_no": "37",
+              "video_id": "4762756_0_2494211946659128",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38 | Maths | Profit & Loss (लाभ और हानि)",
+              "class_no": "38",
+              "video_id": "4763506_0_1831655604885010",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-39 | Maths | Profit & Loss (लाभ और हानि)",
+              "class_no": "39",
+              "video_id": "4764773_0_6549427224456851",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-40 | Maths | Discount (बट्टा)",
+              "class_no": "40",
+              "video_id": "4769449_0_7841286326987342",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-41 | Maths | Discount (बट्टा)",
+              "class_no": "41",
+              "video_id": "4770278_0_8156926657954258",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-42 | Maths | Simple Interest (साधारण ब्याज)",
+              "class_no": "42",
+              "video_id": "4770989_0_5721695575122474",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-43 | Maths | Simple Interest (साधारण ब्याज)",
+              "class_no": "43",
+              "video_id": "4771119_0_9088763338270381",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36337,
+          "name": "English",
+          "total_videos": 41,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | English | Introduction",
+              "class_no": "1",
+              "video_id": "4705058_0_8600737975700399",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | English | Fundamental Of English",
+              "class_no": "2",
+              "video_id": "https://www.youtube.com/watch?v=bYPEyKxdPkk",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | English | Fundamental Of English",
+              "class_no": "3",
+              "video_id": "4706914_0_7523050599791335",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | English | Fundamental Of English",
+              "class_no": "4",
+              "video_id": "https://www.youtube.com/watch?v=QPY6djZ2duA",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | English | Fundamental Of English",
+              "class_no": "5",
+              "video_id": "4710126_0_6033094276768993",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | English | Sentence And Its Part",
+              "class_no": "7",
+              "video_id": "4713354_0_8931676659822185",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | English | Sentence And Its Part",
+              "class_no": "8",
+              "video_id": "4714400_0_7553408567854789",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | English | Sentence And Its Part",
+              "class_no": "9",
+              "video_id": "4715599_0_8285734333253150",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | English | Sentence And Its Part",
+              "class_no": "10",
+              "video_id": "4717096_0_7842014376641337",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | English | Sentence And Its Part",
+              "class_no": "11",
+              "video_id": "4718321_0_2454871966628051",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Eng | Noun",
+              "class_no": "12",
+              "video_id": "4719712_0_1893827427440881",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Eng | Noun",
+              "class_no": "14",
+              "video_id": "4721881_0_4965581305984468",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Eng | Noun",
+              "class_no": "15",
+              "video_id": "4725147_0_5584952159267574",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Eng | Noun",
+              "class_no": "16",
+              "video_id": "4726008_0_8794570849747218",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Eng | Noun",
+              "class_no": "17",
+              "video_id": "4727776_0_4345268560813179",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Eng | Noun",
+              "class_no": "18",
+              "video_id": "4728451_0_9578648267619826",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Eng | Noun",
+              "class_no": "19",
+              "video_id": "4729244_0_6985074991839318",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Eng | Noun",
+              "class_no": "20",
+              "video_id": "4730206_0_2209049592241945",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Eng | Noun",
+              "class_no": "21",
+              "video_id": "4732998_0_3947477978073038",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Eng | Noun Practice",
+              "class_no": "22",
+              "video_id": "4733931_0_8210533137992975",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Eng |Pronoun",
+              "class_no": "23",
+              "video_id": "4734921_0_2474934465611964",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Eng | Pronoun",
+              "class_no": "24",
+              "video_id": "4735885_0_6982116116663648",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Eng | Pronoun",
+              "class_no": "25",
+              "video_id": "4741098_0_8924953250483236",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Eng | Pronoun",
+              "class_no": "26",
+              "video_id": "4742282_0_5544702228922644",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Eng | Pronoun",
+              "class_no": "27",
+              "video_id": "4743407_0_8143404051218373",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Eng | Pronoun",
+              "class_no": "30",
+              "video_id": "4752704_0_1514603428204998",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Eng | Pronoun",
+              "class_no": "31",
+              "video_id": "4753646_0_8292068745312966",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Eng | Pronoun",
+              "class_no": "32",
+              "video_id": "4754329_0_9240628809640298",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Eng | Pronoun",
+              "class_no": "33",
+              "video_id": "4755934_0_4793518187685599",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Eng | Pronoun",
+              "class_no": "34",
+              "video_id": "4757705_0_1179089880810540",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Eng | Adjective",
+              "class_no": "35",
+              "video_id": "4758516_0_6539669778319913",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Eng | Adjective",
+              "class_no": "36",
+              "video_id": "4759697_0_7250881163557750",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Eng | Adjective",
+              "class_no": "37",
+              "video_id": "4761438_0_5559359017256726",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Eng | Adjective",
+              "class_no": "38",
+              "video_id": "4762335_0_9451709296501323",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38 | Eng | Adjective",
+              "class_no": "39",
+              "video_id": "4763055_0_8772072442299773",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-39 | Eng | Adjective",
+              "class_no": "40",
+              "video_id": "4764293_0_5680447505290448",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-41 | Eng | Adjective",
+              "class_no": "41",
+              "video_id": "4765753_0_9834422003786491",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-42 | Eng | Adverb",
+              "class_no": "42",
+              "video_id": "4767869_0_9073618586084512",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-43 | Eng | Adverb",
+              "class_no": "43",
+              "video_id": "4768857_0_8569510357620203",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-44 | Eng | Adverb",
+              "class_no": "44",
+              "video_id": "4769728_0_4295547578692415",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-45 | Eng | Adverb",
+              "class_no": "45",
+              "video_id": "4770605_0_4239047327007424",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36338,
+          "name": "Reasoning",
+          "total_videos": 49,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Reas | Blood Relations",
+              "class_no": "1",
+              "video_id": "4704129_0_8942817617491514",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Reas | Blood Relations",
+              "class_no": "2",
+              "video_id": "4705147_0_3717480535471449",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Reas | Blood Relations",
+              "class_no": "3",
+              "video_id": "4706084_0_2719736048976562",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Reas | Blood Relations",
+              "class_no": "4",
+              "video_id": "4770159_0_5298131459034496",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Reas | Blood Relations",
+              "class_no": "5",
+              "video_id": "4770161_0_1283382331984672",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Reas | Blood Relations",
+              "class_no": "6",
+              "video_id": "4711139_0_6673700273244897",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Reas | Blood Relations",
+              "class_no": "7",
+              "video_id": "4712096_0_9608564555209544",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Reas | Blood Relations",
+              "class_no": "8",
+              "video_id": "4713545_0_3727276738133976",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Reas | Blood Relations",
+              "class_no": "9",
+              "video_id": "4714751_0_1191673587900898",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Reas | Blood Relations",
+              "class_no": "10",
+              "video_id": "4715909_0_3105485201635687",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Reas | Classification - Odd One Out",
+              "class_no": "11",
+              "video_id": "4718798_0_4029635981000944",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Reas | Classification - Odd One Out",
+              "class_no": "12",
+              "video_id": "4719954_0_8071269844106205",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Reas | Classification - Odd One Out",
+              "class_no": "13",
+              "video_id": "4722403_0_1836368433497123",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Reas | Classification - Odd One Out",
+              "class_no": "14",
+              "video_id": "4725325_0_9306612872731594",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Reas | Calendar",
+              "class_no": "15",
+              "video_id": "4727010_0_6655434643841347",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Reas | Calendar",
+              "class_no": "16",
+              "video_id": "4727861_0_8853549327232149",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Reas | Calendar",
+              "class_no": "17",
+              "video_id": "4728671_0_1875410382817648",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Reas | Calendar",
+              "class_no": "18",
+              "video_id": "4729512_0_4485515681286476",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Reas | Calendar",
+              "class_no": "19",
+              "video_id": "4730579_0_8239258413488806",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Reas | Calendar",
+              "class_no": "20",
+              "video_id": "4732225_0_5791265790187342",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Reas | Calendar",
+              "class_no": "21",
+              "video_id": "4733203_0_2684868682555055",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Reas | Counting Of Figures",
+              "class_no": "22",
+              "video_id": "4734219_0_4368499194863618",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Reas | Counting Of Figures",
+              "class_no": "23",
+              "video_id": "4738378_0_7991117069739476",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Reas | Counting Of Figures",
+              "class_no": "24",
+              "video_id": "4739246_0_4018048811678016",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Reas | Counting Of Figures",
+              "class_no": "25",
+              "video_id": "4740243_0_5794941683591415",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Reas | Counting Of Figures",
+              "class_no": "26",
+              "video_id": "4741495_0_3531386209278097",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Reas | Counting Of Figures",
+              "class_no": "27",
+              "video_id": "4742685_0_2096388188890300",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Reas | Input Output",
+              "class_no": "28",
+              "video_id": "4745522_0_4521397605336789",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Reas | Input Output",
+              "class_no": "29",
+              "video_id": "4747190_0_3173973126324223",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Reas | Input Output",
+              "class_no": "30",
+              "video_id": "4747918_0_3138136182714665",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Reas | Input Output",
+              "class_no": "31",
+              "video_id": "4748893_0_4445380299007916",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Reas | Input Output",
+              "class_no": "32",
+              "video_id": "4749833_0_3696412600028554",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Reas | Course Of Action",
+              "class_no": "33",
+              "video_id": "4751189_0_2168548439476640",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Reas | Course Of Action",
+              "class_no": "34",
+              "video_id": "4752945_0_4462894300211630",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Reas | Syllogism",
+              "class_no": "35",
+              "video_id": "4753860_0_6631784953291021",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Reas | Syllogism",
+              "class_no": "36",
+              "video_id": "4755402_0_9882362389988455",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Reas | Syllogism",
+              "class_no": "37",
+              "video_id": "4756149_0_4467852823823050",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38 | Reas | Syllogism",
+              "class_no": "38",
+              "video_id": "4756999_0_2226280876891459",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-39 | Reas | Syllogism",
+              "class_no": "39",
+              "video_id": "4757918_0_6454963040113301",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-40 | Reas | Syllogism",
+              "class_no": "40",
+              "video_id": "4758797_0_4061628531670162",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-41 | Reas | Syllogism",
+              "class_no": "41",
+              "video_id": "4760688_0_4069042398267790",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-42 | Reas | Syllogism",
+              "class_no": "42",
+              "video_id": "4761664_0_3266551801869478",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-43 | Reas | Syllogism",
+              "class_no": "43",
+              "video_id": "4762551_0_3154432498319467",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-44 | Reas | Statement And Conclusion",
+              "class_no": "44",
+              "video_id": "4763231_0_3911619116454044",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-45 | Reas | Statement And Conclusion",
+              "class_no": "45",
+              "video_id": "4764510_0_7451799894866788",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-46 | Reas | Statement and Assumption",
+              "class_no": "46",
+              "video_id": "4770063_0_8122208406713592",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-47 | Reas | Statement and Arguments",
+              "class_no": "47",
+              "video_id": "4767272_0_4725765029693148",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-48 | Reas | Assertion And Reason",
+              "class_no": "48",
+              "video_id": "4769172_0_4584711618775363",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-49 | Reas | Cause And Effects",
+              "class_no": "49",
+              "video_id": "4770027_0_1723946259607117",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36339,
+          "name": "Hindi",
+          "total_videos": 49,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Hindi | वर्णमाला",
+              "class_no": "1",
+              "video_id": "4693517_0_9073677148572860",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Hindi | वर्णमाला",
+              "class_no": "2",
+              "video_id": "4694465_0_7763771243628399",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Hindi | वर्णमाला",
+              "class_no": "3",
+              "video_id": "4695577_0_6240743835536573",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Hindi | वर्णमाला",
+              "class_no": "4",
+              "video_id": "4698102_0_3472620098947714",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Hindi | वर्णमाला",
+              "class_no": "5",
+              "video_id": "4700233_0_9854271880515574",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Hindi | वर्णमाला",
+              "class_no": "6",
+              "video_id": "4700872_0_3275463132614579",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Hindi | संधि",
+              "class_no": "7",
+              "video_id": "4702581_0_3849676652489563",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Hindi | संधि के भेद",
+              "class_no": "8",
+              "video_id": "4704150_0_8870766819407113",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Hindi | संधि के भेद",
+              "class_no": "9",
+              "video_id": "4705163_0_6070935016331926",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Hindi | संधि के भेद",
+              "class_no": "10",
+              "video_id": "4707079_0_2014095151531569",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Hindi | संधि के भेद",
+              "class_no": "11",
+              "video_id": "4709339_0_9897587364127761",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Hindi | संधि के भेद",
+              "class_no": "12",
+              "video_id": "4711150_0_3720627690140910",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Hindi | संधि के भेद",
+              "class_no": "13",
+              "video_id": "4712117_0_9674424419274236",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Hindi | उपसर्ग",
+              "class_no": "15",
+              "video_id": "4715939_0_7601641926270987",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Hindi | प्रत्यय",
+              "class_no": "16",
+              "video_id": "4719422_0_6577482789345545",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Hindi | शब्द के भेद और  तत्सम शब्द की पहचान",
+              "class_no": "17",
+              "video_id": "4719973_0_8781625190073855",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Hindi | तत्सम शब्दों की पहचान",
+              "class_no": "19",
+              "video_id": "4727872_0_7929812072626653",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Hindi | तत्सम शब्दों की पहचान",
+              "class_no": "20",
+              "video_id": "4728692_0_7650984037178866",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Hindi | रूढ़, यौगिक एवं योगरूढ़ शब्द",
+              "class_no": "21",
+              "video_id": "4729526_0_1728924764629770",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Hindi | अनेकार्थी शब्द",
+              "class_no": "22",
+              "video_id": "4731477_0_6198081983475118",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Hindi | विलोम शब्द",
+              "class_no": "23",
+              "video_id": "4732234_0_5260884924099150",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Hindi | पर्यायवाची शब्द",
+              "class_no": "24",
+              "video_id": "4733220_0_1695186630457560",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Hindi | हिंदी शब्दावली",
+              "class_no": "25",
+              "video_id": "4734240_0_2754703106894469",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Hindi | वर्तनी",
+              "class_no": "26",
+              "video_id": "4738398_0_5846924323547115",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Hindi | भाषा और बोली",
+              "class_no": "27",
+              "video_id": "4739265_0_6287259176981703",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Hindi | भाषा और बोली",
+              "class_no": "28",
+              "video_id": "4740261_0_5989500004776569",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Hindi | कारक",
+              "class_no": "29",
+              "video_id": "4741524_0_6440841864303258",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Hindi | कारक और समास",
+              "class_no": "30",
+              "video_id": "4742718_0_1683031369308615",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Hindi | समास के भेद",
+              "class_no": "31",
+              "video_id": "4744548_0_8709104352411412",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Hindi | समास के भेद",
+              "class_no": "32",
+              "video_id": "4745529_0_6535432803760286",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Hindi | विराम चिह्न",
+              "class_no": "33",
+              "video_id": "4746288_0_2610642557522789",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Hindi | लिंग और वचन",
+              "class_no": "34",
+              "video_id": "4747128_0_2373002728168993",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Hindi | वृत्ति और पक्ष",
+              "class_no": "35",
+              "video_id": "4747925_0_1637157404099129",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Hindi | वाक्य के भेद",
+              "class_no": "36",
+              "video_id": "4749836_0_7135379935758737",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Hindi | वाक्य के भेद",
+              "class_no": "37",
+              "video_id": "4751206_0_9941620508215579",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Hindi | वाक्य के भेद",
+              "class_no": "38",
+              "video_id": "4752162_0_3104570720617493",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38 | Hindi | रिक्त स्थान की पूर्ति और  अशुद्ध वाक्य",
+              "class_no": "39",
+              "video_id": "4752953_0_7533631522860712",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-40 | Hindi | काल के भेद",
+              "class_no": "41",
+              "video_id": "4755408_0_5551962415083067",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-41 | Hindi | वाच्य",
+              "class_no": "42",
+              "video_id": "4756162_0_4919114661190503",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-42 | Hindi | रस के भेद",
+              "class_no": "43",
+              "video_id": "4757008_0_8220504297413189",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-43 | Hindi | रस के भेद",
+              "class_no": "44",
+              "video_id": "4757933_0_3379090746130476",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-44 | Hindi | रस के भेद",
+              "class_no": "45",
+              "video_id": "4758809_0_2743877193694807",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-45 | Hindi | छंद",
+              "class_no": "46",
+              "video_id": "4760698_0_1898404774990964",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-46 | Hindi | छंद",
+              "class_no": "47",
+              "video_id": "4761683_0_7322029359318200",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-47 | Hindi | छंद",
+              "class_no": "48",
+              "video_id": "4762574_0_2869890466301347",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-48 | Hindi | संज्ञा के भेद",
+              "class_no": "49",
+              "video_id": "4763240_0_7495140873531743",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-49 | Hindi | संज्ञा के भेद",
+              "class_no": "50",
+              "video_id": "4764512_0_9531107036286080",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-50 | Hindi | संज्ञा के भेद",
+              "class_no": "51",
+              "video_id": "4766044_0_2602517354627065",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-52 | Hindi | संज्ञा के भेद",
+              "class_no": "53",
+              "video_id": "4769192_0_9517201737077777",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36340,
+          "name": "History",
+          "total_videos": 21,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | History |  Ancient History",
+              "class_no": "1",
+              "video_id": "4723907_0_6247333452015137",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | History |  Ancient History",
+              "class_no": "2",
+              "video_id": "4726325_0_8204486017844885",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | History |  Ancient History",
+              "class_no": "3",
+              "video_id": "4726361_0_5785735811949439",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | History |  Ancient History",
+              "class_no": "4",
+              "video_id": "4728183_0_2975800191850440",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | History | Ancient History",
+              "class_no": "5",
+              "video_id": "4728941_0_3300404546695377",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | History | Ancient History",
+              "class_no": "6",
+              "video_id": "4730956_0_5069699938851365",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | History | Ancient History",
+              "class_no": "7",
+              "video_id": "4749016_0_6344205134025288",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | History | Ancient History",
+              "class_no": "8",
+              "video_id": "4751545_0_9951855215630969",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | History | Ancient History",
+              "class_no": "9",
+              "video_id": "4752487_0_4353001507954447",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | History |Ancient History",
+              "class_no": "10",
+              "video_id": "4755263_0_6344374235102475",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | History |Ancient History",
+              "class_no": "11",
+              "video_id": "4756508_0_6292906587548384",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | History |Ancient History",
+              "class_no": "12",
+              "video_id": "4757406_0_8205598896083063",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | History |Ancient History",
+              "class_no": "13",
+              "video_id": "4758257_0_9678700135610396",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | History |Ancient History",
+              "class_no": "14",
+              "video_id": "4759417_0_5884461263176351",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | History |Ancient History",
+              "class_no": "15",
+              "video_id": "4761020_0_3120827475643006",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | History |Ancient History",
+              "class_no": "16",
+              "video_id": "4762802_0_7446298060152310",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | History |Ancient History",
+              "class_no": "17",
+              "video_id": "4763978_0_6544421744082218",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | History |Ancient History",
+              "class_no": "18",
+              "video_id": "4765932_0_8361668574644442",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | History |Ancient History",
+              "class_no": "19",
+              "video_id": "4765942_0_8729426659247881",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | History |Ancient History",
+              "class_no": "20",
+              "video_id": "4767596_0_9914114982906429",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | History |Ancient History",
+              "class_no": "21",
+              "video_id": "4768375_0_2288914375596881",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36341,
+          "name": "Geography",
+          "total_videos": 45,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Geo",
+              "class_no": "1",
+              "video_id": "4694151_0_6207181933819709",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Geo | Introduction",
+              "class_no": "2",
+              "video_id": "4695223_0_4045704866208868",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Geo | Introduction",
+              "class_no": "3",
+              "video_id": "4696539_0_5714820684658655",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Geo | Introduction",
+              "class_no": "4",
+              "video_id": "4697776_0_2808944573003006",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Geo | Introduction",
+              "class_no": "5",
+              "video_id": "4698918_0_3813289031769003",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Geo | Introduction",
+              "class_no": "6",
+              "video_id": "4700600_0_9309138460717544",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Geo | Solar System",
+              "class_no": "7",
+              "video_id": "4703150_0_3346455928332133",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-01 | Geo | Earth",
+              "class_no": "8",
+              "video_id": "4704898_0_3902232562441398",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Geo | Earth\"s Interior",
+              "class_no": "9",
+              "video_id": "4708394_0_3049340660620557",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Geo | Earth\"s Movment",
+              "class_no": "10",
+              "video_id": "4709900_0_7243111197029076",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Geo | Rocks",
+              "class_no": "11",
+              "video_id": "4713096_0_2737024067857132",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Geo | Volcanoes",
+              "class_no": "12",
+              "video_id": "4715571_0_8281983150386842",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Geo | Landforms",
+              "class_no": "13",
+              "video_id": "4716990_0_2046260215843420",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Geo | Landforms",
+              "class_no": "14",
+              "video_id": "4719597_0_7430169006430696",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Geo | Landforms",
+              "class_no": "15",
+              "video_id": "4721043_0_9309804768734086",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Geo | Landforms",
+              "class_no": "16",
+              "video_id": "4725133_0_1561080388075494",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Geo | Landforms",
+              "class_no": "17",
+              "video_id": "4725908_0_9799056620046534",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Geo | Landforms",
+              "class_no": "18",
+              "video_id": "4726433_0_5598504628260309",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Geo | Landforms",
+              "class_no": "19",
+              "video_id": "4727659_0_9554523337197114",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Geo | Landforms",
+              "class_no": "20",
+              "video_id": "4728429_0_5398430342561008",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Geo | Landforms",
+              "class_no": "21",
+              "video_id": "4729204_0_1694703975407749",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Geo | Oceanography",
+              "class_no": "22",
+              "video_id": "4730184_0_3697309257727312",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Geo | Oceanography",
+              "class_no": "23",
+              "video_id": "4731112_0_6802470447832515",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Geo | Oceanography",
+              "class_no": "24",
+              "video_id": "4731702_0_9086901322379938",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Geo | Oceanography",
+              "class_no": "25",
+              "video_id": "4732844_0_9162627676247341",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Geo | Oceanography",
+              "class_no": "26",
+              "video_id": "4733777_0_8032797727912718",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Geo | Oceanography",
+              "class_no": "28",
+              "video_id": "4737500_0_1083666838540262",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Geo | Oceanography",
+              "class_no": "29",
+              "video_id": "4737926_0_2566076994129444",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Geo | Oceanography",
+              "class_no": "30",
+              "video_id": "4738889_0_2332839786573058",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Geo | Oceanography",
+              "class_no": "31",
+              "video_id": "4739827_0_3829519361343088",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Geo | Oceanography",
+              "class_no": "32",
+              "video_id": "4740884_0_9101092215611292",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Geo | Oceanography",
+              "class_no": "33",
+              "video_id": "4743271_0_3780035455137832",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Geo | Oceanography",
+              "class_no": "34",
+              "video_id": "4744138_0_1509538008843431",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Geo | Oceanography",
+              "class_no": "35",
+              "video_id": "4745061_0_9206760504310816",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Geo | Oceanography",
+              "class_no": "36",
+              "video_id": "4745972_0_6352116898542718",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Geo | Oceanography",
+              "class_no": "37",
+              "video_id": "4746735_0_9734668446507200",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Geo | Regions",
+              "class_no": "38",
+              "video_id": "4747605_0_4367992258141446",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Geo | Regions",
+              "class_no": "39",
+              "video_id": "4751772_0_9258249611901417",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Geo | Regions",
+              "class_no": "40",
+              "video_id": "4752619_0_9555420301549430",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Geo | Regions",
+              "class_no": "41",
+              "video_id": "4753529_0_8101447824681163",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Geo | Regions",
+              "class_no": "42",
+              "video_id": "4754227_0_7396994150119501",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Geo | Regions",
+              "class_no": "43",
+              "video_id": "4755835_0_6294572000885258",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Geo | Regions",
+              "class_no": "44",
+              "video_id": "4758433_0_2564070683891658",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Geo | Regions",
+              "class_no": "45",
+              "video_id": "4759578_0_8376318356242620",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Geo | Regions",
+              "class_no": "46",
+              "video_id": "4760286_0_2280617005713756",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36342,
+          "name": "Polity",
+          "total_videos": 35,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Polity | making of the constitution",
+              "class_no": "1",
+              "video_id": "4704688_0_9315485848383063",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Polity | making of the constitution",
+              "class_no": "2",
+              "video_id": "4705576_0_8163099573713691",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Polity |  Feature of the constitution",
+              "class_no": "3",
+              "video_id": "4706758_0_2109037643235581",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Polity |  union and its terriotry",
+              "class_no": "4",
+              "video_id": "4707461_0_9947915100161717",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Polity |  union and its terriotry and state reorganisation",
+              "class_no": "5",
+              "video_id": "4712477_0_7270665650801941",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Polity | state reorganisation",
+              "class_no": "6",
+              "video_id": "4714063_0_5577978051835576",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Polity |  preamble",
+              "class_no": "8",
+              "video_id": "4717856_0_5317092826823360",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Polity |  Fundamental right",
+              "class_no": "10",
+              "video_id": "4719187_0_7662746059634922",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Polity | Fundamental right",
+              "class_no": "11",
+              "video_id": "4720397_0_9260932088202727",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Polity | Fundamental right",
+              "class_no": "13",
+              "video_id": "4723815_0_5928067731528507",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Polity | Fundamental right",
+              "class_no": "14",
+              "video_id": "4725664_0_5808369318783984",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Polity |  DPSP",
+              "class_no": "15",
+              "video_id": "4728106_0_3658135102269342",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Polity | DPSP",
+              "class_no": "16",
+              "video_id": "4728889_0_5506155133911450",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Polity | DPSP + FDS + Emergency",
+              "class_no": "17",
+              "video_id": "4729916_0_2160173148729713",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Polity | Emergency",
+              "class_no": "18",
+              "video_id": "4734637_0_4302458999110109",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Polity | president + vice president",
+              "class_no": "19",
+              "video_id": "4735199_0_5857221619920215",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Polity | president + vice president",
+              "class_no": "20",
+              "video_id": "4736726_0_7639899149955043",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Polity | president + vice president",
+              "class_no": "21",
+              "video_id": "4739561_0_9907291544509805",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Polity |  president + vice president",
+              "class_no": "22",
+              "video_id": "4740372_0_6946127808954632",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Polity | Ordinance making Power of the Preside",
+              "class_no": "23",
+              "video_id": "4740638_0_4705628223313195",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Polity | Ordinance making Power of the Preside",
+              "class_no": "24",
+              "video_id": "4743115_0_7649997057525938",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | History | Ordinance making Power of the Preside",
+              "class_no": "25",
+              "video_id": "4750109_0_2983829996122291",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Polity | parliament",
+              "class_no": "26",
+              "video_id": "4751499_0_4031091377096102",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Polity | Ordinance making Power of the Preside",
+              "class_no": "27",
+              "video_id": "4752370_0_1227187061982119",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Polity | Ordinance making Power of the Preside",
+              "class_no": "28",
+              "video_id": "4756437_0_9579969742683872",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Polity | parliament",
+              "class_no": "29",
+              "video_id": "4757342_0_7612229069698335",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Polity |  parliament",
+              "class_no": "30",
+              "video_id": "4758190_0_1289130593721541",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Polity | Ordinance making Power of the Preside",
+              "class_no": "31",
+              "video_id": "4759300_0_9729623754652172",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Polity | Ordinance making Power of the Preside",
+              "class_no": "32",
+              "video_id": "4760950_0_3042511174423076",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Polity | Ordinance making Power of the Preside",
+              "class_no": "33",
+              "video_id": "4762002_0_5884648359790318",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Polity | Ordinance making Power of the Preside",
+              "class_no": "34",
+              "video_id": "4767546_0_7198299509167353",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Polity | Ordinance making Power of the Preside",
+              "class_no": "35",
+              "video_id": "4768333_0_6647545991855109",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Polity | Ordinance making Power of the Preside",
+              "class_no": "36",
+              "video_id": "4769491_0_3885879426888996",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Polity | Local govt, attorney and advocate, CAG",
+              "class_no": "37",
+              "video_id": "4770342_0_3826578403303205",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38 | Polity | Local govt, attorney and advocate, CAG",
+              "class_no": "38",
+              "video_id": "4771178_0_3573489455562350",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36343,
+          "name": "Economy",
+          "total_videos": 10,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Economy | Basics Of Economics",
+              "class_no": "1",
+              "video_id": "4756297_0_4742300098240600",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Eco | Poverty (गरीबी)",
+              "class_no": "2",
+              "video_id": "4757996_0_3720304456236144",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Eco | Poverty (गरीबी)",
+              "class_no": "3",
+              "video_id": "4758842_0_9242478121813942",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Eco | Unemployment (बेरोजगारी)",
+              "class_no": "4",
+              "video_id": "4760748_0_9319772354147351",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Eco | Monetary Policy & Inflation",
+              "class_no": "5",
+              "video_id": "4762627_0_8472248909525920",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Eco | Monetary Policy & Inflation",
+              "class_no": "6",
+              "video_id": "4763315_0_8071765543906109",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Eco | Foreign Trade & Investment (विदेशी व्यापार व निवेश)",
+              "class_no": "7",
+              "video_id": "4766115_0_6886995125251251",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Eco | Foreign Trade & Investment (विदेशी व्यापार व निवेश)",
+              "class_no": "8",
+              "video_id": "4767331_0_3980265458638719",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Eco | National Income",
+              "class_no": "9",
+              "video_id": "4768173_0_9176223957582807",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Eco | National Income",
+              "class_no": "10",
+              "video_id": "4769265_0_1154674000628109",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36344,
+          "name": "Physics",
+          "total_videos": 44,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-1 | Physics | Work Power Energy",
+              "class_no": "1",
+              "video_id": "4706467_0_1932006828516921",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-2 | Physics | Work Power Energy",
+              "class_no": "2",
+              "video_id": "4707407_0_7980810804539174",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-3 | Physics | Heat",
+              "class_no": "3",
+              "video_id": "4709627_0_9290777865954385",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-4 | Physics | Heat",
+              "class_no": "4",
+              "video_id": "4710480_0_5308440514741135",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-5 | Physics | Sound",
+              "class_no": "5",
+              "video_id": "4711506_0_8760167700500082",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-6 | Physics | Sound",
+              "class_no": "6",
+              "video_id": "4712603_0_4340880696691515",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-7 | Physics | Sound",
+              "class_no": "7",
+              "video_id": "4714025_0_1015415615300102",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-8 | Physics | Light",
+              "class_no": "8",
+              "video_id": "4715320_0_9897780290258240",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-9 | Physics | Light",
+              "class_no": "9",
+              "video_id": "4716375_0_1209157781369261",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Physics | Light",
+              "class_no": "10",
+              "video_id": "4718064_0_1853223655853499",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Physics | Light",
+              "class_no": "11",
+              "video_id": "4719288_0_7731041468645479",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Physics | Light",
+              "class_no": "12",
+              "video_id": "4720517_0_3187332910650911",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Physics | Light",
+              "class_no": "13",
+              "video_id": "4721635_0_3287098769563972",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Physics | Light",
+              "class_no": "14",
+              "video_id": "4725720_0_3115021296211864",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Physics | Light",
+              "class_no": "15",
+              "video_id": "4726470_0_4539664471375920",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Physics | Gravitation",
+              "class_no": "16",
+              "video_id": "4729994_0_1017235171928842",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Physics | Gravitation",
+              "class_no": "17",
+              "video_id": "4731001_0_5359002925506754",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Physics | Gravitation",
+              "class_no": "18",
+              "video_id": "4731766_0_3674483494170696",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Physics | Pressure",
+              "class_no": "19",
+              "video_id": "4732714_0_4280796868441115",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Physics | Pressure",
+              "class_no": "20",
+              "video_id": "4733678_0_2969053572076972",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Physics | Presssure",
+              "class_no": "21",
+              "video_id": "4734682_0_9929773017949978",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Physics | Electricity",
+              "class_no": "22",
+              "video_id": "4735611_0_2531194748283619",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Physics | Electricity",
+              "class_no": "23",
+              "video_id": "4737036_0_1094645546146822",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Physics | Electricity",
+              "class_no": "24",
+              "video_id": "4737852_0_3349898830778228",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Physics | Electricity",
+              "class_no": "25",
+              "video_id": "4739141_0_7152360382257721",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Physics | Electricity",
+              "class_no": "26",
+              "video_id": "4739672_0_6072372634931260",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Physics | Electricity",
+              "class_no": "27",
+              "video_id": "4740732_0_3799981339584926",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Physics | Electricity",
+              "class_no": "28",
+              "video_id": "4742025_0_4688602365921685",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Physics | Practice and doubt class",
+              "class_no": "29",
+              "video_id": "4745849_0_6298271415870918",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Physics | Practice and doubt class",
+              "class_no": "30",
+              "video_id": "4746492_0_1909254942791556",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Physics | Unit and Measurement -1",
+              "class_no": "31",
+              "video_id": "4747443_0_8474471331885975",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Physics | Unit and Measurement -2",
+              "class_no": "32",
+              "video_id": "4748312_0_7018243108414425",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Physics | Unit and Measurement -3",
+              "class_no": "33",
+              "video_id": "4749102_0_8105639503774148",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Physics | Motion Part 1",
+              "class_no": "34",
+              "video_id": "4752520_0_5026909582330509",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Physics | Motion Part 2",
+              "class_no": "35",
+              "video_id": "4753433_0_5462094595727742",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Physics | Motion Part 3",
+              "class_no": "36",
+              "video_id": "4754148_0_2157491414006783",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Physics | Laws of Motion Part 1",
+              "class_no": "37",
+              "video_id": "4754819_0_7958854247652996",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38 | Physics | Laws of Motion Part 2",
+              "class_no": "38",
+              "video_id": "4755723_0_8224501656830380",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-39 | Physics | Laws of Motion Part 3",
+              "class_no": "39",
+              "video_id": "4756553_0_2878734586279992",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-40 | Physics | Laws of Motion Part 4",
+              "class_no": "40",
+              "video_id": "4757455_0_8223402313343718",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-41 | Physics | Work Power Energy Part 1",
+              "class_no": "41",
+              "video_id": "4758336_0_6269502701812842",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-41 | Physics | Work Power Energy Part 2",
+              "class_no": "42",
+              "video_id": "4759470_0_5856427245295958",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-42 | Physics | Practice Class",
+              "class_no": "43",
+              "video_id": "4761930_0_4076480393607689",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-43 | Physics | Practice Class",
+              "class_no": "44",
+              "video_id": "4762778_0_6627050677092592",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36345,
+          "name": "Chemistry",
+          "total_videos": 33,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Chemistry | Introduction",
+              "class_no": "1",
+              "video_id": "4735030_0_6552213278816806",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Chemistry | Acid and base",
+              "class_no": "2",
+              "video_id": "4735962_0_6848585316986623",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Chemistry | Acid and base",
+              "class_no": "3",
+              "video_id": "4737395_0_6193306633717215",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Chemistry | Acid and base",
+              "class_no": "4",
+              "video_id": "4739099_0_7887596384507769",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Chemistry | Acid and base",
+              "class_no": "5",
+              "video_id": "4740049_0_1610144741110816",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Chemistry | Acid and base",
+              "class_no": "6",
+              "video_id": "4742374_0_8676997664077905",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Chemistry | Matter",
+              "class_no": "7",
+              "video_id": "4743523_0_5032520490182313",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Chemistry | Matter",
+              "class_no": "8",
+              "video_id": "4744270_0_3817031072825705",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Chemistry | Matter",
+              "class_no": "9",
+              "video_id": "4745303_0_4662618003396665",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Chemistry | Matter",
+              "class_no": "10",
+              "video_id": "4746982_0_6652119501363013",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Chemistry | Matter",
+              "class_no": "11",
+              "video_id": "4747814_0_2684100446526075",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Chemistry | Separation of substances",
+              "class_no": "12",
+              "video_id": "4748688_0_6044789047073477",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Chemistry | Separation of substances",
+              "class_no": "13",
+              "video_id": "4751055_0_1548181528713941",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Chemistry | Separation of substances",
+              "class_no": "14",
+              "video_id": "4751971_0_9371455987722874",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Chemistry | Separation of substances",
+              "class_no": "15",
+              "video_id": "4752774_0_5884795172758541",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Chemistry | Separation of substances",
+              "class_no": "16",
+              "video_id": "4753723_0_6917110277006166",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Chemistry | Separation of substances",
+              "class_no": "17",
+              "video_id": "4754401_0_5923279750874264",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Chemistry | Separation of substances",
+              "class_no": "18",
+              "video_id": "4755139_0_6446170337537825",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Chemistry | Separation of substances",
+              "class_no": "19",
+              "video_id": "4757722_0_1707165482402669",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Chemistry | Separation of substances",
+              "class_no": "20",
+              "video_id": "4758280_0_3547623481967939",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Chemistry | Separation of substances",
+              "class_no": "21",
+              "video_id": "4759735_0_9893574163879439",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Chemistry | Separation of substances",
+              "class_no": "22",
+              "video_id": "4760372_0_6496043328676197",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Chemistry | Separation of substances",
+              "class_no": "23",
+              "video_id": "4761493_0_6519570504056699",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Chemistry | Separation of substances",
+              "class_no": "24",
+              "video_id": "4762396_0_2849451345456001",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Chemistry | Separation of substances",
+              "class_no": "25",
+              "video_id": "4763110_0_7396342725118595",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Chemistry | Separation of substances",
+              "class_no": "26",
+              "video_id": "4764347_0_4885925672095791",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Chemistry | Separation of substances",
+              "class_no": "27",
+              "video_id": "4765222_0_2155120653245208",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Chemistry | Separation of substances",
+              "class_no": "28",
+              "video_id": "4765798_0_6280388959347876",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Chemistry | Separation of substances",
+              "class_no": "29",
+              "video_id": "4767930_0_7002641316101764",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Chemistry | Separation of substances",
+              "class_no": "30",
+              "video_id": "4768259_0_7435448533937150",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Chemistry | Separation of substances",
+              "class_no": "31",
+              "video_id": "4769334_0_6097719905196965",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Chemistry | Carbon anf it's compound",
+              "class_no": "32",
+              "video_id": "4770202_0_1396057603999522",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Chemistry | Carbon anf it's compound",
+              "class_no": "33",
+              "video_id": "4771024_0_3553269493918760",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36346,
+          "name": "Biology",
+          "total_videos": 28,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Biology | Introduction",
+              "class_no": "1",
+              "video_id": "4737523_0_8145270798721899",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Biology | Introduction",
+              "class_no": "2",
+              "video_id": "4739208_0_3701630004761723",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Biology | Introduction",
+              "class_no": "3",
+              "video_id": "4740208_0_3843042171685366",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Biology | Introduction",
+              "class_no": "4",
+              "video_id": "4741380_0_7526053292444025",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Biology | Introduction",
+              "class_no": "5",
+              "video_id": "4742604_0_5140600424879503",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Biology | Introduction",
+              "class_no": "6",
+              "video_id": "4743677_0_9164285197944274",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Biology | Introduction",
+              "class_no": "7",
+              "video_id": "4744343_0_6305912950699621",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Biology | Introduction",
+              "class_no": "8",
+              "video_id": "4747886_0_4088297812639226",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Biology | Introduction",
+              "class_no": "9",
+              "video_id": "4748822_0_3076294364453293",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Bio | Digestion",
+              "class_no": "10",
+              "video_id": "4749447_0_2217289650019138",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Biology | Introduction",
+              "class_no": "11",
+              "video_id": "4751164_0_4149296387137311",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Biology | Introduction",
+              "class_no": "12",
+              "video_id": "4752098_0_4167697093365986",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Biology | Introduction",
+              "class_no": "13",
+              "video_id": "4752914_0_3115193656535286",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Biology | Respiration",
+              "class_no": "14",
+              "video_id": "4753834_0_7529237946055522",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Biology | Respiration",
+              "class_no": "15",
+              "video_id": "4754521_0_9273227619934629",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Bio | Anticoagulants",
+              "class_no": "16",
+              "video_id": "4755238_0_7624132876005325",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Bio | Blood Group",
+              "class_no": "17",
+              "video_id": "4756970_0_4845077751585843",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Biology | Blood Group",
+              "class_no": "18",
+              "video_id": "4758771_0_7157564340142140",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Biology | Blood Group",
+              "class_no": "19",
+              "video_id": "4759867_0_8768287794680016",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Biology | Blood Group",
+              "class_no": "20",
+              "video_id": "4760429_0_2600064119278547",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Biology | Blood Group",
+              "class_no": "21",
+              "video_id": "4762509_0_1745275814860774",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Biology | Blood Group",
+              "class_no": "22",
+              "video_id": "4763203_0_2889621658449893",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Biology | Blood Group",
+              "class_no": "23",
+              "video_id": "4764471_0_2587968952850469",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Biology | Blood Group",
+              "class_no": "24",
+              "video_id": "4765361_0_8471239141525617",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Biology | Blood Group",
+              "class_no": "25",
+              "video_id": "4765903_0_3350866565113502",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Biology | Blood Group",
+              "class_no": "26",
+              "video_id": "4767242_0_9529324403073645",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Biology | Blood Group",
+              "class_no": "27",
+              "video_id": "4768082_0_9390718769893166",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Biology | Blood Group",
+              "class_no": "28",
+              "video_id": "4770832_0_9719935879448217",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "BPSC TRE 4.0 Syllabus (CLASS 6 TO 8)",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1773340200/69b3e657a8164_BPSC_TRE_4.0_Syllabus_CLASS_6_TO_8...3.3..pdf"
+            }
+          ]
+        },
+        {
+          "id": 36347,
+          "name": "Bihar GK",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 36348,
+          "name": "Current Affairs",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 36729,
+          "name": "Previous Year Questions",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 37050,
+          "name": "History NCERT Notes",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 37051,
+          "name": "Geography NCERT Notes",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 37052,
+          "name": "Polity NCERT Notes",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 37053,
+          "name": "Physics NCERT Notes",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 37054,
+          "name": "Chemistry NCERT Notes",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 37055,
+          "name": "Biology NCERT Notes",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 37059,
+          "name": "Hindi Updated Notes",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1600 @@
+{
+  "batch_id": "3461",
+  "batch_name": "Hindi Special-57",
+  "scraped_at": "2026-05-24T10:55:48",
+  "total_subjects": 1,
+  "total_topics": 6,
+  "total_videos": 167,
+  "total_pdfs": 3,
+  "subjects": [
+    {
+      "id": 0,
+      "name": "General",
+      "total_topics": 6,
+      "topics": [
+        {
+          "id": 36244,
+          "name": "Intro",
+          "total_videos": 2,
+          "total_pdfs": 0,
+          "videos": [
+            {
+              "title": "Hindi Special-57 | New Batch Introduction | By Arun Sir | Careerwill APP",
+              "class_no": "1",
+              "video_id": "https://www.youtube.com/watch?v=d3j_Q99tSjA",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "60 Rules of Grammar | Basic English Grammar | Part 01 | English by Ankul Sir #ssc #ssccgl",
+              "class_no": "2",
+              "video_id": "https://www.youtube.com/watch?v=jld21LshxDo",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": []
+        },
+        {
+          "id": 36290,
+          "name": "Syllabus ",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 36289,
+          "name": "Hindi",
+          "total_videos": 49,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Hindi | वर्णमाला",
+              "class_no": "1",
+              "video_id": "4693517_0_9073677148572860",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Hindi | वर्णमाला",
+              "class_no": "2",
+              "video_id": "4694465_0_7763771243628399",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Hindi | वर्णमाला",
+              "class_no": "3",
+              "video_id": "4695577_0_6240743835536573",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Hindi | वर्णमाला",
+              "class_no": "4",
+              "video_id": "4698102_0_3472620098947714",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Hindi | वर्णमाला",
+              "class_no": "5",
+              "video_id": "4700233_0_9854271880515574",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Hindi | वर्णमाला",
+              "class_no": "6",
+              "video_id": "4700872_0_3275463132614579",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Hindi | संधि",
+              "class_no": "7",
+              "video_id": "4702581_0_3849676652489563",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Hindi | संधि के भेद",
+              "class_no": "8",
+              "video_id": "4704150_0_8870766819407113",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Hindi | संधि के भेद",
+              "class_no": "9",
+              "video_id": "4705163_0_6070935016331926",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Hindi | संधि के भेद",
+              "class_no": "10",
+              "video_id": "4707079_0_2014095151531569",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Hindi | संधि के भेद",
+              "class_no": "11",
+              "video_id": "4709339_0_9897587364127761",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Hindi | संधि के भेद",
+              "class_no": "12",
+              "video_id": "4711150_0_3720627690140910",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Hindi | संधि के भेद",
+              "class_no": "13",
+              "video_id": "4712117_0_9674424419274236",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Hindi | उपसर्ग",
+              "class_no": "15",
+              "video_id": "4715939_0_7601641926270987",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Hindi | प्रत्यय",
+              "class_no": "16",
+              "video_id": "4719422_0_6577482789345545",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Hindi | शब्द के भेद और  तत्सम शब्द की पहचान",
+              "class_no": "17",
+              "video_id": "4719973_0_8781625190073855",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Hindi | तत्सम शब्दों की पहचान",
+              "class_no": "19",
+              "video_id": "4727872_0_7929812072626653",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Hindi | तत्सम शब्दों की पहचान",
+              "class_no": "20",
+              "video_id": "4728692_0_7650984037178866",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Hindi | रूढ़, यौगिक एवं योगरूढ़ शब्द",
+              "class_no": "21",
+              "video_id": "4729526_0_1728924764629770",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Hindi | अनेकार्थी शब्द",
+              "class_no": "22",
+              "video_id": "4731477_0_6198081983475118",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Hindi | विलोम शब्द",
+              "class_no": "23",
+              "video_id": "4732234_0_5260884924099150",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Hindi | पर्यायवाची शब्द",
+              "class_no": "24",
+              "video_id": "4733220_0_1695186630457560",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Hindi | हिंदी शब्दावली",
+              "class_no": "25",
+              "video_id": "4734240_0_2754703106894469",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Hindi | वर्तनी",
+              "class_no": "26",
+              "video_id": "4738398_0_5846924323547115",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Hindi | भाषा और बोली",
+              "class_no": "27",
+              "video_id": "4739265_0_6287259176981703",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Hindi | भाषा और बोली",
+              "class_no": "28",
+              "video_id": "4740261_0_5989500004776569",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Hindi | कारक",
+              "class_no": "29",
+              "video_id": "4741524_0_6440841864303258",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Hindi | कारक और समास",
+              "class_no": "30",
+              "video_id": "4742718_0_1683031369308615",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Hindi | समास के भेद",
+              "class_no": "31",
+              "video_id": "4744548_0_8709104352411412",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Hindi | समास के भेद",
+              "class_no": "32",
+              "video_id": "4745529_0_6535432803760286",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Hindi | विराम चिह्न",
+              "class_no": "33",
+              "video_id": "4746288_0_2610642557522789",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Hindi | लिंग और वचन",
+              "class_no": "34",
+              "video_id": "4747128_0_2373002728168993",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Hindi | वृत्ति और पक्ष",
+              "class_no": "35",
+              "video_id": "4747925_0_1637157404099129",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Hindi | वाक्य के भेद",
+              "class_no": "36",
+              "video_id": "4749836_0_7135379935758737",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Hindi | वाक्य के भेद",
+              "class_no": "37",
+              "video_id": "4751206_0_9941620508215579",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Hindi | वाक्य के भेद",
+              "class_no": "38",
+              "video_id": "4752162_0_3104570720617493",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38 | Hindi | रिक्त स्थान की पूर्ति और  अशुद्ध वाक्य",
+              "class_no": "39",
+              "video_id": "4752953_0_7533631522860712",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-40 | Hindi | काल के भेद",
+              "class_no": "41",
+              "video_id": "4755408_0_5551962415083067",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-41 | Hindi | वाच्य",
+              "class_no": "42",
+              "video_id": "4756162_0_4919114661190503",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-42 | Hindi | रस के भेद",
+              "class_no": "43",
+              "video_id": "4757008_0_8220504297413189",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-43 | Hindi | रस के भेद",
+              "class_no": "44",
+              "video_id": "4757933_0_3379090746130476",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-44 | Hindi | रस के भेद",
+              "class_no": "45",
+              "video_id": "4758809_0_2743877193694807",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-45 | Hindi | छंद",
+              "class_no": "46",
+              "video_id": "4760698_0_1898404774990964",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-46 | Hindi | छंद",
+              "class_no": "47",
+              "video_id": "4761683_0_7322029359318200",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-47 | Hindi | छंद",
+              "class_no": "48",
+              "video_id": "4762574_0_2869890466301347",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-48 | Hindi | संज्ञा के भेद",
+              "class_no": "49",
+              "video_id": "4763240_0_7495140873531743",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-49 | Hindi | संज्ञा के भेद",
+              "class_no": "50",
+              "video_id": "4764512_0_9531107036286080",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-50 | Hindi | संज्ञा के भेद",
+              "class_no": "51",
+              "video_id": "4766044_0_2602517354627065",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-52 | Hindi | संज्ञा के भेद",
+              "class_no": "53",
+              "video_id": "4769192_0_9517201737077777",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Syllabus",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775154600/69cf794392c27_HINDI_SYLLABUS_1_2.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775154600/69cf794392c27_HINDI_SYLLABUS_1_2.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775154600/69cf794392c27_HINDI_SYLLABUS_1_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36287,
+          "name": "Hindi Practice (VOD)",
+          "total_videos": 50,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | वर्णमाला | By Arun Sir",
+              "class_no": "1",
+              "video_id": "4445240_0_3588245388218195",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | वर्णमाला | By Arun Sir",
+              "class_no": "2",
+              "video_id": "4445241_0_8998262766013755",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | सन्धि | By Arun Sir",
+              "class_no": "3",
+              "video_id": "4445242_0_3027875842387116",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | सन्धि | By Arun Sir",
+              "class_no": "4",
+              "video_id": "4445243_0_1164497814454498",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | उपसर्ग और प्रत्यय | By Arun Sir",
+              "class_no": "5",
+              "video_id": "4445244_0_8084721137356676",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | सन्धि | By Arun Sir",
+              "class_no": "6",
+              "video_id": "4445245_0_1513669981387977",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | समास | By Arun Sir",
+              "class_no": "7",
+              "video_id": "4445246_0_5595231613206462",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | समास | By Arun Sir",
+              "class_no": "8",
+              "video_id": "4445247_0_4181101543816042",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | वर्तनी  | By Arun Sir",
+              "class_no": "9",
+              "video_id": "4445248_0_4864948040098886",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | अनेकार्थी | By Arun Sir",
+              "class_no": "10",
+              "video_id": "4445249_0_2092700738507669",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | विलोम | By Arun Sir",
+              "class_no": "11",
+              "video_id": "4445250_0_7000396738160120",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | पर्यायवाची शब्द | By Arun Sir",
+              "class_no": "12",
+              "video_id": "4445251_0_7208512366673567",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | श्रुति सम भिन्नार्थक शब्द|  By Arun Sir",
+              "class_no": "13",
+              "video_id": "4445252_0_1298069030404493",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | संज्ञा | By Arun Sir",
+              "class_no": "14",
+              "video_id": "4445253_0_1525542831227621",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | सर्वनाम | By Arun Sir",
+              "class_no": "15",
+              "video_id": "4445254_0_1981046211807224",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | विशेषण | By Arun Sir",
+              "class_no": "16",
+              "video_id": "4445255_0_6158285339855857",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | क्रिया  के भेद | By Arun Sir",
+              "class_no": "17",
+              "video_id": "4445256_0_8855632351046280",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | गद्यांश और पद्यांश प्रैक्टिस | By Arun Sir",
+              "class_no": "19",
+              "video_id": "4445257_0_9792405576570708",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | गद्यांश और पद्यांश प्रैक्टिस | By Arun Sir",
+              "class_no": "20",
+              "video_id": "4445258_0_8282915122174478",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | प्रसिद्द कवि एवं उनकी रचनाएँ | By Arun Sir",
+              "class_no": "21",
+              "video_id": "4445259_0_6300978000005996",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | वाक्य के भेद ,अशुद्ध और शुद्ध वाक्य  | By Arun Sir",
+              "class_no": "22",
+              "video_id": "4445260_0_5469490467054923",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | अग्नि परीक्षा | By Arun Sir",
+              "class_no": "23",
+              "video_id": "4445261_0_1754284655760988",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | रिक्त स्थानों की पूर्ति | By Arun Sir",
+              "class_no": "24",
+              "video_id": "4445262_0_6906507650023097",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | भाषा एवं बोलियाँ, उपबोलियाँ  | By Arun Sir",
+              "class_no": "25",
+              "video_id": "4445263_0_7965336765486798",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | वाक्य अशुद्धि | By Arun Sir",
+              "class_no": "26",
+              "video_id": "4445264_0_8607309946496220",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | वाक्य अशुद्धि  | By Arun Sir",
+              "class_no": "27",
+              "video_id": "4445265_0_3098984149014936",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | अग्नि परीक्षा | By Arun Sir",
+              "class_no": "28",
+              "video_id": "4445266_0_4346154210819566",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | हिंदी साहित्य | By Arun Sir",
+              "class_no": "29",
+              "video_id": "4445267_0_2617342891536789",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | रस, छंद और अलंकार | By Arun Sir",
+              "class_no": "30",
+              "video_id": "4445268_0_9638242922921776",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | रस | By Arun Sir",
+              "class_no": "31",
+              "video_id": "4445269_0_8990854605877929",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 |  अलंकार | By Arun Sir",
+              "class_no": "32",
+              "video_id": "4445270_0_1258125308860268",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | वाच्य | By Arun Sir",
+              "class_no": "33",
+              "video_id": "4445271_0_7847438683258452",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | अविकारी शब्द (अव्यय और निपात) | By Arun Sir",
+              "class_no": "34",
+              "video_id": "4445272_0_3323123696137029",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | काल | By Arun Sir",
+              "class_no": "35",
+              "video_id": "4445273_0_4645342718369089",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | कारक | By Arun Sir",
+              "class_no": "36",
+              "video_id": "4445274_0_3643674801199296",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | विराम चिन्ह | By Arun Sir",
+              "class_no": "37",
+              "video_id": "4445275_0_3416992456968107",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38  | वाक्य अशुद्धियाँ | By Arun Sir",
+              "class_no": "38",
+              "video_id": "4445276_0_3846449388489690",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-39 | समानार्थक शब्द | By Arun Sir",
+              "class_no": "39",
+              "video_id": "4445277_0_8252340377149663",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-40 | वाक्यांश के लिए एक शब्द | By Arun Sir",
+              "class_no": "40",
+              "video_id": "4445278_0_2953960611912931",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-41 | विशेषण और विशेष्य | By Arun Sir",
+              "class_no": "41",
+              "video_id": "4445279_0_2469253810278688",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-42 | वृत्ति | By Arun Sir",
+              "class_no": "42",
+              "video_id": "4445280_0_6794389715227467",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-43 | पक्ष | By Arun Sir",
+              "class_no": "43",
+              "video_id": "4445281_0_4121212173153721",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-44 | पत्र-पत्रिका, पुरस्कार,रचनाकार जन्म मृत्यु | By Arun Sir",
+              "class_no": "44",
+              "video_id": "4445282_0_1817712166438350",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-45 | भारतीय संविधान में हिंदी,हिंदी में प्रथम | By Arun Sir",
+              "class_no": "45",
+              "video_id": "4445283_0_7084815919253693",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-46 |  महत्त्वपूर्ण प्रश्नोत्तरी",
+              "class_no": "46",
+              "video_id": "4445284_0_2932564615936277",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-47 |  तत्सम शब्दो की पहचान",
+              "class_no": "47",
+              "video_id": "4445285_0_4306516508991419",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-48 |  तत्भव शब्द",
+              "class_no": "48",
+              "video_id": "4445286_0_8382426676082823",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-49 |  लिंग & वचन",
+              "class_no": "49",
+              "video_id": "4445287_0_8233374531436922",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-50 |  कवि लेखक और उनकी रचनाएं",
+              "class_no": "50",
+              "video_id": "4445288_0_9651648121444419",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-51 |  मुहावरे एवं लोकोक्तियाँ",
+              "class_no": "51",
+              "video_id": "4445289_0_3976525762831675",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Syllabus",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775154600/69cf794392c27_HINDI_SYLLABUS_1_2.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775154600/69cf794392c27_HINDI_SYLLABUS_1_2.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775154600/69cf794392c27_HINDI_SYLLABUS_1_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36288,
+          "name": "Hindi (VOD)",
+          "total_videos": 66,
+          "total_pdfs": 1,
+          "videos": [
+            {
+              "title": "Class-01 | Hindi | तत्सम शब्द",
+              "class_no": "1",
+              "video_id": "4425210_0_9313484362880160",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Hindi | तत्सम शब्द",
+              "class_no": "2",
+              "video_id": "4425215_0_1506494118575476",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Hindi | तद्भव शब्द व देशी शब्द की पहचान",
+              "class_no": "3",
+              "video_id": "4425221_0_5878847863390300",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Hindi | विदेशी संकर शब्द",
+              "class_no": "4",
+              "video_id": "4425227_0_9518280601226578",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Hindi | रूढ़, यौगिक, और योगरूढ़ शब्द",
+              "class_no": "5",
+              "video_id": "4425232_0_6166687090037159",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Hindi | संज्ञा के भेद",
+              "class_no": "6",
+              "video_id": "4425238_0_1213763571231646",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Hindi | संज्ञा के भेद",
+              "class_no": "7",
+              "video_id": "4425243_0_1193859444582590",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Hindi | संज्ञा के भेद और सर्वनाम",
+              "class_no": "8",
+              "video_id": "4425247_0_8119661443415232",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Hindi | सर्वनाम के भेद",
+              "class_no": "9",
+              "video_id": "4425252_0_1211840324256857",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Hindi | सर्वनाम के भेद",
+              "class_no": "10",
+              "video_id": "4421433_0_4052308440989469",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Hindi | विशेषण के भेद",
+              "class_no": "11",
+              "video_id": "4425261_0_7515051936590527",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Hindi | विशेषण के भेद",
+              "class_no": "12",
+              "video_id": "4425266_0_8764907759629665",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Hindi | विशेषण के भेद",
+              "class_no": "13",
+              "video_id": "4425269_0_3112759013354362",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Hindi | क्रिया के भेद",
+              "class_no": "14",
+              "video_id": "4425273_0_6921001305918763",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Hindi | अविकारी शब्द और अव्यय",
+              "class_no": "16",
+              "video_id": "4425281_0_6515154213964073",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Hindi | अव्यय के भेद और निपात",
+              "class_no": "17",
+              "video_id": "4425287_0_6531425854437061",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Hindi | विराम चिन्ह",
+              "class_no": "18",
+              "video_id": "4425293_0_4808605329194107",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Hindi | विराम चिन्ह",
+              "class_no": "19",
+              "video_id": "4442361_0_5062290860024444",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Hindi | विराम चिन्ह",
+              "class_no": "20",
+              "video_id": "4442369_0_7476442136018833",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Hindi | समास के भेद",
+              "class_no": "21",
+              "video_id": "4442370_0_8861640245374003",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Hindi | समास के भेद",
+              "class_no": "22",
+              "video_id": "4442371_0_3838788244609789",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Hindi | समास के भेद",
+              "class_no": "23",
+              "video_id": "4442376_0_8573457305374485",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Hindi | कारक के भेद",
+              "class_no": "24",
+              "video_id": "4442380_0_2595982687352547",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Hindi | कारक के भेद",
+              "class_no": "25",
+              "video_id": "4442388_0_8194063920047186",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Hindi | वर्णमाला",
+              "class_no": "26",
+              "video_id": "4442393_0_8750834725712350",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Hindi | वर्णमाला",
+              "class_no": "27",
+              "video_id": "4442398_0_5640513012111778",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Hindi | वर्णो का उच्चारण स्थान",
+              "class_no": "29",
+              "video_id": "4442416_0_5216640357014468",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Hindi | वर्णो का उच्चारण स्थान",
+              "class_no": "30",
+              "video_id": "4442423_0_5380682850644802",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Hindi | संधि के भेद",
+              "class_no": "32",
+              "video_id": "4442434_0_2726478066074672",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Hindi | विसर्ग संधि",
+              "class_no": "33",
+              "video_id": "4442444_0_7519216291998483",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Hindi | व्यंजन संधि",
+              "class_no": "34",
+              "video_id": "4442450_0_6574631641847767",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Hindi | व्यंजन संधि",
+              "class_no": "35",
+              "video_id": "4442453_0_6845255799438259",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Hindi | व्यंजन संधि",
+              "class_no": "36",
+              "video_id": "4442459_0_8688842169810204",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Hindi | व्यंजन संधि",
+              "class_no": "37",
+              "video_id": "4442462_0_3811862879004786",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38 | Hindi | व्यंजन संधि",
+              "class_no": "38",
+              "video_id": "4442465_0_5170343979215159",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-39 | Hindi | व्यंजन संधि",
+              "class_no": "39",
+              "video_id": "4442470_0_5480573021942828",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-40 | Hindi | व्यंजन संधि",
+              "class_no": "40",
+              "video_id": "4442475_0_5512048584621815",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-42 | Hindi | व्यंजन संधि",
+              "class_no": "42",
+              "video_id": "4442482_0_5743308706261300",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-43 | Hindi | व्यंजन संधि",
+              "class_no": "43",
+              "video_id": "4442487_0_4680166158091304",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-44 | Hindi | व्यंजन संधि",
+              "class_no": "44",
+              "video_id": "4442491_0_4406163333522330",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-45 | Hindi | हिंदी साहित्य का इतिहास",
+              "class_no": "45",
+              "video_id": "4442496_0_5464037627300454",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-46 | Hindi | हिंदी साहित्य",
+              "class_no": "46",
+              "video_id": "4442498_0_3246380435104460",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-47 | Hindi | हिंदी साहित्य",
+              "class_no": "47",
+              "video_id": "4445290_0_3488247931004835",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-48 | Hindi | हिंदी साहित्य",
+              "class_no": "48",
+              "video_id": "4445291_0_3041967832798725",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-49 | Hindi | हिंदी साहित्य",
+              "class_no": "49",
+              "video_id": "4445292_0_1644876014213289",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-50 | Hindi | हिंदी साहित्य",
+              "class_no": "50",
+              "video_id": "4445293_0_3178200627499111",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-51 | Hindi | हिंदी साहित्य",
+              "class_no": "51",
+              "video_id": "4445294_0_2706823014430564",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-52 | Hindi | हिंदी साहित्य",
+              "class_no": "52",
+              "video_id": "4445295_0_9869108262499374",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-53 | Hindi | काल के भेद",
+              "class_no": "53",
+              "video_id": "4445296_0_4878524966057013",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-54 | Hindi | काल के भेद",
+              "class_no": "54",
+              "video_id": "4445297_0_9619061260594566",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-55 | Hindi | काल के भेद",
+              "class_no": "55",
+              "video_id": "4445298_0_6439020476496211",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-56 | Hindi | काल के भेद",
+              "class_no": "56",
+              "video_id": "4445299_0_9022702294792153",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-57 | Hindi | काल के भेद",
+              "class_no": "57",
+              "video_id": "4445300_0_4034836915787784",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-58 | Hindi | रस",
+              "class_no": "58",
+              "video_id": "4445301_0_4490694098144619",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-59 | Hindi | रस के भेद",
+              "class_no": "59",
+              "video_id": "4445302_0_3206738555292715",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-60 | Hindi | रस के भेद",
+              "class_no": "60",
+              "video_id": "4445303_0_6311009492105743",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-61 | Hindi | अलंकार के भेद",
+              "class_no": "61",
+              "video_id": "4445304_0_2707411984040598",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-62 | Hindi | अर्थालंकार के भेद",
+              "class_no": "62",
+              "video_id": "4445305_0_3428713209465045",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-63 | Hindi | अर्थालंकार के भेद",
+              "class_no": "63",
+              "video_id": "4445306_0_2811989545425449",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-64 | Hindi | अर्थालंकार के भेद",
+              "class_no": "64",
+              "video_id": "4445307_0_9170460175698522",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-65 | Hindi | विराम चिन्ह",
+              "class_no": "65",
+              "video_id": "4445308_0_8295305016728144",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-66 | Hindi | विराम चिन्ह",
+              "class_no": "66",
+              "video_id": "4445309_0_5413676587926340",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-67 | लिंग और वचन",
+              "class_no": "67",
+              "video_id": "4424674_0_4410169423907598",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-68 | लिंग निर्धारण",
+              "class_no": "68",
+              "video_id": "4424675_0_1771552987200551",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-69 || हिन्दी एवं अन्य भारतीय भाषाएँ",
+              "class_no": "69",
+              "video_id": "4424668_0_4578089939503297",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-70 | Hindi | छंद के भेद",
+              "class_no": "70",
+              "video_id": "4425200_0_2617361832162578",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Syllabus",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775154600/69cf794392c27_HINDI_SYLLABUS_1_2.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775154600/69cf794392c27_HINDI_SYLLABUS_1_2.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775154600/69cf794392c27_HINDI_SYLLABUS_1_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36746,
+          "name": "Hindi Updated Notes",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        }
+      ]
+    }
+  ]
+}

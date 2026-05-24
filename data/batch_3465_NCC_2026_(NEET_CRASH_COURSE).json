@@ -1,0 +1,2297 @@
+{
+  "batch_id": "3465",
+  "batch_name": "NCC 2026 (NEET CRASH COURSE)",
+  "scraped_at": "2026-05-24T10:53:26",
+  "total_subjects": 1,
+  "total_topics": 8,
+  "total_videos": 145,
+  "total_pdfs": 112,
+  "subjects": [
+    {
+      "id": 0,
+      "name": "General",
+      "total_topics": 8,
+      "topics": [
+        {
+          "id": 36322,
+          "name": "Intro",
+          "total_videos": 0,
+          "total_pdfs": 0,
+          "videos": [],
+          "pdfs": []
+        },
+        {
+          "id": 36385,
+          "name": "11th Physics",
+          "total_videos": 23,
+          "total_pdfs": 16,
+          "videos": [
+            {
+              "title": "Vector | L-01 | Vector",
+              "class_no": "1",
+              "video_id": "4721175_0_6084199277536055",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Vector | L-02 | Part-2",
+              "class_no": "2",
+              "video_id": "4725628_0_2258606735150105",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Kinematics | L-01 | Part -1",
+              "class_no": "3",
+              "video_id": "4725632_0_7939784747339270",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Kinematics | L-02 | Part -2",
+              "class_no": "4",
+              "video_id": "4725520_0_2040351630610715",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Kinematics | L-03 | Part-3",
+              "class_no": "5",
+              "video_id": "4726300_0_4109385060027132",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Kinematics | L-04 | Relative Motion",
+              "class_no": "6",
+              "video_id": "4728298_0_8873391043593423",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "NLM and Friction | L-01 | Newton 1st and 2nd Law",
+              "class_no": "7",
+              "video_id": "4728297_0_5909647420225876",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "NLM and Friction | L-03 | Newton 3rd Law and Tension",
+              "class_no": "9",
+              "video_id": "4728020_0_4866270797097538",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "NLM and Friction | L-04 | Friction",
+              "class_no": "10",
+              "video_id": "4729966_0_1437758811958511",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Work, Power & Energy | L-01 | Part-1",
+              "class_no": "11",
+              "video_id": "4729965_0_3982039006171214",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Work, Power & Energy | L-02 | Part-2",
+              "class_no": "12",
+              "video_id": "4729712_0_2541018060070286",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Work, Power & Energy | L-03 | Part-3",
+              "class_no": "13",
+              "video_id": "4733474_0_4008042802394029",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Center of Mass & Collision | L-01 | Part-1",
+              "class_no": "14",
+              "video_id": "4733480_0_7311769560482023",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Center of Mass & Collision | L-02 | Part-2",
+              "class_no": "15",
+              "video_id": "4732440_0_8374034462304991",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Circular Motion | L-01 | Part-1",
+              "class_no": "16",
+              "video_id": "4733388_0_5901293261236048",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Circular Motion | L-02 | Part-2",
+              "class_no": "17",
+              "video_id": "4735649_0_6043855318647475",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Rotational Motion | L- 01 | Part- 1",
+              "class_no": "18",
+              "video_id": "4735691_0_7425556131774549",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Rotational Motion | L-02 | Part-2",
+              "class_no": "19",
+              "video_id": "4735381_0_9211664025338517",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Gravitation | L-01 | Part-01",
+              "class_no": "20",
+              "video_id": "4739481_0_7262338560030258",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Gravitation | L- 02 | Part-02",
+              "class_no": "21",
+              "video_id": "4741844_0_5866334320275244",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Elasticity and Fluids | L- 01 | Elasticity and Fluids",
+              "class_no": "22",
+              "video_id": "4743019_0_5998746722260717",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Elasticity and Fluids | L- 02 | Elasticity and Fluids",
+              "class_no": "23",
+              "video_id": "4743914_0_4563994148538287",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Heat and Thermodynamics | L- 01 | Heat and Thermodynamics",
+              "class_no": "24",
+              "video_id": "4744389_0_5477345884481612",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Time Table",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf"
+            },
+            {
+              "title": "NCC Planner",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test  - 01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36386,
+          "name": "12th Physics",
+          "total_videos": 24,
+          "total_pdfs": 16,
+          "videos": [
+            {
+              "title": "Electrostatics | L-01 | Electrostatics Part-1",
+              "class_no": "1",
+              "video_id": "4706305_0_9330833338903506",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Electrostatics | L-02 | Electrostatics Part-2",
+              "class_no": "2",
+              "video_id": "4707264_0_6923536252932119",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Electrostatics | L-03 | Electrostatics Part-3",
+              "class_no": "3",
+              "video_id": "4709490_0_1612136317020258",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Current Electricity | L-01 | Part-1",
+              "class_no": "4",
+              "video_id": "4710361_0_2721553260392546",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Current Electricity | L-02 | Part-2",
+              "class_no": "5",
+              "video_id": "4710456_0_1667332779826446",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Current Electricity | L-03 | Part-3",
+              "class_no": "6",
+              "video_id": "4712942_0_7805254377684374",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Capacitor | L-01 |  Part-1",
+              "class_no": "7",
+              "video_id": "4712943_0_5781821144042832",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Capacitor | L-02 | Part-2",
+              "class_no": "8",
+              "video_id": "4712325_0_1180047602132811",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Magnetic Effect Of Current | L-01 | Part-1",
+              "class_no": "9",
+              "video_id": "4713655_0_6430913467258099",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Magnetic Effect Of Current | L-02 | Part-2",
+              "class_no": "10",
+              "video_id": "4715022_0_5462106028929135",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Magnetism and Matter | L-01 | Part-1",
+              "class_no": "11",
+              "video_id": "4716153_0_1933508261286094",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Electromagnetic Induction | L-01 | Part-1",
+              "class_no": "12",
+              "video_id": "4717941_0_7599168974058743",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Electromagnetic Induction | L-02 | Part -2",
+              "class_no": "13",
+              "video_id": "4720569_0_3710911626744217",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "AC | L-01 | Part-1",
+              "class_no": "14",
+              "video_id": "4720573_0_6155789642209537",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "AC | L-02 | Part-2",
+              "class_no": "15",
+              "video_id": "4725627_0_3507375782224268",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Electromagnetic Wave | L- 01 | Part-1",
+              "class_no": "16",
+              "video_id": "4725625_0_6994979744263864",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Ray Optics | L-01 | Part-1",
+              "class_no": "17",
+              "video_id": "4736720_0_3247761007802458",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Ray Optics | L-03 | Part-3",
+              "class_no": "19",
+              "video_id": "4738235_0_6962703236826372",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Ray Optics | L-04 | Part-4",
+              "class_no": "20",
+              "video_id": "4738367_0_2873085054111738",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Wave Opics | L-02 | Part-02",
+              "class_no": "22",
+              "video_id": "4741681_0_2913337181320470",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Modren Physics | L-01 | Modren Physics",
+              "class_no": "23",
+              "video_id": "4742850_0_1562806374717928",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Modren Physics | L-02 | Modren Physics",
+              "class_no": "24",
+              "video_id": "4743839_0_4301194984929587",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Semiconductor | L-01 | Semiconductor",
+              "class_no": "25",
+              "video_id": "4744544_0_7475403525998394",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Semiconductor | L-02 | Semiconductor",
+              "class_no": "26",
+              "video_id": "4746298_0_6429239480105954",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Time Table",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf"
+            },
+            {
+              "title": "NCC Planner",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test  - 01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36387,
+          "name": "Physical Chemistry",
+          "total_videos": 24,
+          "total_pdfs": 16,
+          "videos": [
+            {
+              "title": "Chemical Equilibrium | L-01 | Part-1",
+              "class_no": "1",
+              "video_id": "4723856_0_6744049987637933",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Equilibrium | L-02 | Part-2",
+              "class_no": "2",
+              "video_id": "4727912_0_7295362854591765",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Ionic Equilibrium | L-01 | Part-1",
+              "class_no": "3",
+              "video_id": "4728667_0_9742541484176269",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Ionic Equilibrium | L-02 | Part-2",
+              "class_no": "4",
+              "video_id": "4728733_0_9221687672664331",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Ionic Equilibrium | L-03 | Part-3",
+              "class_no": "5",
+              "video_id": "4731015_0_6569404088184128",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Atomic Structure | L-01 | Part-1",
+              "class_no": "6",
+              "video_id": "4731012_0_6185366303261046",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Atomic Structure | L-02 | Part-2",
+              "class_no": "7",
+              "video_id": "4730569_0_8473995259735283",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Atomic Structure | L-03 | Part-3",
+              "class_no": "8",
+              "video_id": "4731446_0_3296242186503099",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Thermodynamics | L-01 | Part-1",
+              "class_no": "9",
+              "video_id": "4731526_0_3206112402048599",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Thermodynamics | L-02 | Part-2",
+              "class_no": "10",
+              "video_id": "4732038_0_8190710350568832",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Thermodynamics | L-03 | Part-3",
+              "class_no": "11",
+              "video_id": "4732067_0_9061533813655276",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Some Basic Concepts of Chemistry | L-01 | Part-1",
+              "class_no": "12",
+              "video_id": "4732278_0_7743132910741576",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Some Basic Concepts of Chemistry | L-02 | Part-2",
+              "class_no": "13",
+              "video_id": "4733273_0_1069107755609109",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Some Basic Concepts of Chemistry | L-03 | Part-3",
+              "class_no": "14",
+              "video_id": "4735583_0_9930677123264913",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Kinetics | L-01 | Part-1",
+              "class_no": "15",
+              "video_id": "4735580_0_8099168749383766",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Kinetics | L-02 | Part-2",
+              "class_no": "16",
+              "video_id": "4735196_0_7763909174899629",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Kinetics | L-03 | Part - 03",
+              "class_no": "17",
+              "video_id": "4736769_0_5193987157129754",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Kinetics | L-04 | Part-4",
+              "class_no": "18",
+              "video_id": "4737584_0_4232630336394349",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Kinetics | L-05 | Part-5",
+              "class_no": "19",
+              "video_id": "4738188_0_3157139491889008",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Solutions | L-02 | Part-2",
+              "class_no": "21",
+              "video_id": "4738427_0_5497973159805286",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Solutions | L-03 | Part-03",
+              "class_no": "22",
+              "video_id": "4739292_0_1065867890280361",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Solutions | L-04 | Solutions",
+              "class_no": "23",
+              "video_id": "4741576_0_4214615151664139",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Electrochemistry | L-02 | Electrochemistry",
+              "class_no": "25",
+              "video_id": "4742691_0_6075008337829721",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Electrochemistry | L-04 | Electrochemistry",
+              "class_no": "27",
+              "video_id": "4744347_0_2509154171419435",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Time Table",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf"
+            },
+            {
+              "title": "NCC Planner",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test  - 01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36388,
+          "name": "Inorganic Chemistry",
+          "total_videos": 11,
+          "total_pdfs": 16,
+          "videos": [
+            {
+              "title": "Chemical Bonding | L-01 | Covalent Bond",
+              "class_no": "1",
+              "video_id": "4706441_0_4748058860085547",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Bonding | L-02 | VBT",
+              "class_no": "2",
+              "video_id": "4707390_0_2539234025876462",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Bonding | L-03 | VSEPR",
+              "class_no": "3",
+              "video_id": "4709613_0_7194847405432107",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Bonding | L-04 | Fajans Rule",
+              "class_no": "4",
+              "video_id": "4710968_0_7807791783220198",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Coordination Compound | L-01 | Synergic Bonding",
+              "class_no": "5",
+              "video_id": "4711470_0_9816542013053069",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Coordination Compound | L-02 | Valence Bond Theory",
+              "class_no": "6",
+              "video_id": "4712560_0_1053973512262009",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Coordination Compound | L-03 | CFT",
+              "class_no": "7",
+              "video_id": "4713985_0_5419465595848351",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Coordination Compound | L-04 | Isomerism",
+              "class_no": "8",
+              "video_id": "4720616_0_6446048093678647",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "d & f Block | L-01 | Introducing of d-Block",
+              "class_no": "9",
+              "video_id": "4720621_0_5344939234013886",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "d & f Block | L-02 | SRP & KMnO4",
+              "class_no": "10",
+              "video_id": "4716344_0_2836621142174565",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "d & f Block | L-03 | f-block",
+              "class_no": "11",
+              "video_id": "4718012_0_6120676502871397",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Time Table",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf"
+            },
+            {
+              "title": "NCC Planner",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test  - 01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36389,
+          "name": "Organic Chemistry",
+          "total_videos": 11,
+          "total_pdfs": 16,
+          "videos": [
+            {
+              "title": "GOC | L-01 | Inductive Effect",
+              "class_no": "1",
+              "video_id": "4706154_0_8991140873006720",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "GOC | L-02 | Resonance",
+              "class_no": "2",
+              "video_id": "4707157_0_8954849452525467",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "GOC | L-03 | Bond Length Vampirina Aromatic",
+              "class_no": "3",
+              "video_id": "4709387_0_2218020794568573",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "GOC | L-04 | Complete GOC",
+              "class_no": "4",
+              "video_id": "4710282_0_4352993310789394",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Reaction Mechanism | L-01 | Aromatic Hydrocarbon & Phenol",
+              "class_no": "5",
+              "video_id": "4710896_0_9758908124487504",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Reaction Mechanism | L-02 |  Amine & Aniline",
+              "class_no": "6",
+              "video_id": "4711192_0_4211924334106433",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Reaction Mechanism | L-03 | Hydrocarbon Alkane, Alkene, Alkyne",
+              "class_no": "7",
+              "video_id": "4712172_0_8533428422172353",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Reaction Mechanism | L-04 | Hydrocarbon Alkane, Alkene, Alkyne",
+              "class_no": "8",
+              "video_id": "4713831_0_6939888777355497",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Reaction Mechanism | L-05 | Aldehyde & Ketone",
+              "class_no": "9",
+              "video_id": "4714818_0_9423781067741340",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Reaction Mechanism | L-06 |  Haloalkenes, Alcohol, Ether",
+              "class_no": "10",
+              "video_id": "4716005_0_3034844526045545",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Reaction Mechanism | L-07 | Ziesel Method",
+              "class_no": "11",
+              "video_id": "4717797_0_5334683205889627",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Time Table",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf"
+            },
+            {
+              "title": "NCC Planner",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test  - 01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36390,
+          "name": "Zoology",
+          "total_videos": 27,
+          "total_pdfs": 16,
+          "videos": [
+            {
+              "title": "Breathing and The Exchanges of Gases | L-01 | Human Respiratory System, Mechanism of Breathing, Regulation of Respiration, Pulmonary Volumes",
+              "class_no": "1",
+              "video_id": "4706075_0_3739960780226573",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Breathing and The Exchanges of Gases | L-02 | Transport of Oxygen and Transport of Carbon Dioxide & Disorders",
+              "class_no": "2",
+              "video_id": "4707052_0_4599526874382138",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Excretory Products And Their Elimination | L-01 | Human Excretory System, Micturition, Role of Other Organs in Excretion, Mechanism of U",
+              "class_no": "3",
+              "video_id": "4711615_0_2795020775005403",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Excretory Products And Their Elimination | L-02 | Mechanism Of Concentration Of The Filtrate",
+              "class_no": "4",
+              "video_id": "4711613_0_1917623526176759",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Locomotion and Movement | L-01 | Locomotion & Movement",
+              "class_no": "5",
+              "video_id": "4710875_0_4187016853258990",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Chemical Coordination and Integration | L-01 | Thyroid, Parathyroid, Thymus, Pineal, Adrenal. Pancreas, Testis, Ovary, GIT",
+              "class_no": "8",
+              "video_id": "4713532_0_3559766813303162",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Body Fluids and Circulation | L-01 | Part-1",
+              "class_no": "9",
+              "video_id": "4714747_0_8091738510220749",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Body Fluids and Circulation | L-02 | Part-2",
+              "class_no": "10",
+              "video_id": "4720564_0_8475005763903628",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Structural Organisation In Animal | L-01 | Animal Tissue",
+              "class_no": "11",
+              "video_id": "4719720_0_4188654592551644",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Structural Organisation In Animal | L-02 | Frog",
+              "class_no": "12",
+              "video_id": "4718268_0_8437160152742263",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Human Reproduction | L-01 | Male And Female Reproductive System",
+              "class_no": "13",
+              "video_id": "4718913_0_3719424528145067",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Structural Organisation In Animal | L-03 | Cockroach",
+              "class_no": "14",
+              "video_id": "4719610_0_9791771737196159",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Human Reproduction | L-02 | Male And Female Reproductive System",
+              "class_no": "15",
+              "video_id": "4719942_0_9682389615818365",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Human Reproduction | L-03 | Menstrual Cycle",
+              "class_no": "16",
+              "video_id": "4720036_0_7537444625472801",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Human Reproduction | L-04 | Fertilization",
+              "class_no": "17",
+              "video_id": "4721271_0_8346574397956980",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Human Health And Disease | L-01 | Introduction, Innate Immunity",
+              "class_no": "19",
+              "video_id": "4722398_0_8721167871161812",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Human Health And Disease | L-02 | Immune System of Body",
+              "class_no": "20",
+              "video_id": "4725321_0_1594734500457362",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Human Health And Disease | L-03 | Allergy, AIDS, Cancer",
+              "class_no": "21",
+              "video_id": "4725413_0_3080185424422016",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Human Health And Disease | L-04 | Cancer, Protozoal, Bacterial Disease",
+              "class_no": "22",
+              "video_id": "4726243_0_5147722901150500",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Human Health And Disease | L-05 | Viral Diesase",
+              "class_no": "23",
+              "video_id": "4726415_0_3714740926464712",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Animal Kingdom | L-01 |  Basis of Classification, Excretory Organ in Animals, Respiratory Organ in Animals, Reproduction in Organism",
+              "class_no": "24",
+              "video_id": "4726790_0_6095602368549756",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Animal Kingdom | L-02 | Part-2",
+              "class_no": "25",
+              "video_id": "4727854_0_5263449053998519",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Animal Kingdom | L-03 | Part-3",
+              "class_no": "26",
+              "video_id": "4730992_0_1407363657755422",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Evolution | L-01 | Part - 01",
+              "class_no": "27",
+              "video_id": "4730997_0_4505801231139690",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Evolution | L-02 | Part - 02",
+              "class_no": "28",
+              "video_id": "4732093_0_2486981485918759",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Evolution | L-03 | Part - 03",
+              "class_no": "29",
+              "video_id": "4732218_0_2294535084031017",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Evolution | L-04 | Part - 04",
+              "class_no": "30",
+              "video_id": "4733194_0_7855246851791808",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Time Table",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf"
+            },
+            {
+              "title": "NCC Planner",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test  - 01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36391,
+          "name": "Botany",
+          "total_videos": 25,
+          "total_pdfs": 16,
+          "videos": [
+            {
+              "title": "Biotechnology Priniples And Process | L-01 | Part -1",
+              "class_no": "1",
+              "video_id": "4719281_0_5302154814813827",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Biotechnology Priniples And Process | L-02 | Part-2",
+              "class_no": "2",
+              "video_id": "4720497_0_6739688821672358",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Biotechnology and its Application | L-01 | Application Of Agriculture, Use of Transgenic Plants, Medical Field and Transgenic Animals",
+              "class_no": "3",
+              "video_id": "4721514_0_4054581230897517",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Biotechnology and its Application | L-02 | Part - 02",
+              "class_no": "4",
+              "video_id": "4722447_0_1166095848082909",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Sexual Reproduction in Flowering Plant | L-01 | Part-1",
+              "class_no": "5",
+              "video_id": "4725622_0_2684288426689434",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Sexual Reproduction in Flowering Plant | L-02 | Part-2",
+              "class_no": "6",
+              "video_id": "4726360_0_5655790540613718",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Sexual Reproduction in Flowering Plant | L-03 | Part-3",
+              "class_no": "7",
+              "video_id": "4727322_0_8366324113302437",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Sexual Reproduction in Flowering Plant | L-04 | Part- 4",
+              "class_no": "8",
+              "video_id": "4728139_0_7380644975584445",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Sexual Reproduction in Flowering Plant | L-05 | Part-5",
+              "class_no": "9",
+              "video_id": "4733612_0_7186768341681424",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Morphology of Flowering Plants | L-01 | Part-1",
+              "class_no": "10",
+              "video_id": "4733608_0_1592271377531128",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Morphology of Flowering Plants | L-02 | Part-2",
+              "class_no": "11",
+              "video_id": "4731688_0_2032952772350535",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Morphology of Flowering Plants | L-03 | Part-3",
+              "class_no": "12",
+              "video_id": "4732570_0_3443198936809192",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Morphology of Flowering Plants | L-04 | Part-4",
+              "class_no": "13",
+              "video_id": "4733527_0_7744587891719660",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Photosynthesis in Higher Plants | L-01 | Part-1",
+              "class_no": "14",
+              "video_id": "4734288_0_5271065950870659",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Anatomy of Flowering Plant | L-01 | Part-1",
+              "class_no": "15",
+              "video_id": "4734599_0_3925718965753534",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Photosynthesis in Higher Plants | L-02 | Part-2",
+              "class_no": "16",
+              "video_id": "4735255_0_4288361827161150",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Anatomy of Flowering Plant | L-02 | Part-2",
+              "class_no": "17",
+              "video_id": "4735493_0_8318518084293922",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Photosynthesis in Higher Plants | L-03 | Part-3",
+              "class_no": "18",
+              "video_id": "4736864_0_9603451194253560",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Plant Kingdom | L-01 | Part-1",
+              "class_no": "19",
+              "video_id": "4736938_0_8130099517675306",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Plant Kingdom | L-02 | Part-2",
+              "class_no": "20",
+              "video_id": "4737636_0_1891706215901784",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Photosynthesis in Higher Plants | L-04 | Part-4",
+              "class_no": "21",
+              "video_id": "4737745_0_3258359733195684",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Respiration in Plants | L-01 | Part-1",
+              "class_no": "22",
+              "video_id": "4738202_0_8979311661742715",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Respiration in Plants | L-02 | Part - 02",
+              "class_no": "23",
+              "video_id": "4738521_0_5954687529664994",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Plant Kingdom | L-03 | Part-3",
+              "class_no": "24",
+              "video_id": "4738562_0_5942581547673304",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Respiration in Plants | L-03 | Part-03",
+              "class_no": "25",
+              "video_id": "4739385_0_7058334770598233",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Time Table",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1772821800/69ac3a4dbc27e_time_table_crash.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6371572c22_CCTest_01_22.03.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1774549800/69c6372a5c006_Answer_Key.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e77fea870d3_Crash_course_Test_02_03.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-02 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7800e0a4dd_Crash_course_Test_02_03.04.2026Solutions.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d00885e2_Crash_Course_Test_03_15.04.2026.pdf"
+            },
+            {
+              "title": "Crash Course Test-03 | Answer key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776796200/69e88d3889558_Crash_Course_Test_03_15.04.2026_solution.pdf"
+            },
+            {
+              "title": "NCC Planner",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eb37e886106_NCC_Planner.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 01 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef2727b5f2a_Crash_Course_Major_Test1_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test  - 01 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef273555a5c_Crash_Course_Major_Test1_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef276610929_Crash_Course_Major_Test2_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 02 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef278aa0975_Crash_Course_Major_Test2_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef5443987e7_Crash_Course_Major_Test3_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 03 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef546fb0da2_Crash_Course_Major_Test3_Solution.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Question Paper",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a602b3ab_Crash_Course_Major_Test4_EH.pdf"
+            },
+            {
+              "title": "Crash Course Major Test - 04 | Answer Key",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f35a73714aa_Crash_Course_Major_Test4_Solution.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

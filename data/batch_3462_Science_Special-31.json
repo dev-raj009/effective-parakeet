@@ -1,0 +1,1578 @@
+{
+  "batch_id": "3462",
+  "batch_name": "Science Special-31",
+  "scraped_at": "2026-05-24T10:55:04",
+  "total_subjects": 1,
+  "total_topics": 4,
+  "total_videos": 105,
+  "total_pdfs": 72,
+  "subjects": [
+    {
+      "id": 0,
+      "name": "General",
+      "total_topics": 4,
+      "topics": [
+        {
+          "id": 36245,
+          "name": "Intro",
+          "total_videos": 4,
+          "total_pdfs": 0,
+          "videos": [
+            {
+              "title": "Science Special-31 | New Batch Introduction | By Dilawar Sir | Careerwill App",
+              "class_no": "1",
+              "video_id": "https://www.youtube.com/watch?v=kHR5kgnUgmM",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Science Special-31 | New Batch Introduction | By Zubair Sir | Careerwill App",
+              "class_no": "2",
+              "video_id": "https://www.youtube.com/watch?v=XKIo1NQbyJY",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "60 Rules of Grammar | Basic English Grammar | Part 01 | English by Ankul Sir #ssc #ssccgl",
+              "class_no": "3",
+              "video_id": "https://www.youtube.com/watch?v=jld21LshxDo",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Science Special-31 | New Batch Introduction | By Ankur Sir | Careerwill App",
+              "class_no": "4",
+              "video_id": "https://www.youtube.com/watch?v=qfktpbUbwhE",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": []
+        },
+        {
+          "id": 36494,
+          "name": "Ankur Sir Physics",
+          "total_videos": 25,
+          "total_pdfs": 24,
+          "videos": [
+            {
+              "title": "Class-01 | Physics",
+              "class_no": "1",
+              "video_id": "4736740_0_1061025553340040",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Physics",
+              "class_no": "2",
+              "video_id": "4738387_0_4203472867981055",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Physics",
+              "class_no": "3",
+              "video_id": "4739248_0_4760979673884408",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Physics",
+              "class_no": "4",
+              "video_id": "4740252_0_8016800523883287",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Physics",
+              "class_no": "5",
+              "video_id": "4741505_0_5229851436831016",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Physics",
+              "class_no": "6",
+              "video_id": "4742690_0_3984105154790575",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Physics",
+              "class_no": "8",
+              "video_id": "4745526_0_5085203228203312",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09 | Physics",
+              "class_no": "9",
+              "video_id": "4746279_0_1254662453055736",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Physics",
+              "class_no": "10",
+              "video_id": "4747129_0_7792168889617682",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Physics",
+              "class_no": "11",
+              "video_id": "4749829_0_8104919564961350",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Physics | Newton laws of Motion",
+              "class_no": "12",
+              "video_id": "4751198_0_4258428279679405",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Physics | Newton laws of Motion",
+              "class_no": "13",
+              "video_id": "4752151_0_1807274447927193",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Physics | Newton laws of Motion",
+              "class_no": "14",
+              "video_id": "4752942_0_6409884215315315",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Physics | Newton laws of Motion",
+              "class_no": "15",
+              "video_id": "4755399_0_3706376273085564",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Physics | Newton laws of Motion",
+              "class_no": "16",
+              "video_id": "4757003_0_5703212337925488",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Physics | Uniform Circular Motion",
+              "class_no": "17",
+              "video_id": "4757917_0_8915758466747141",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Physics | Uniform Circular Motion",
+              "class_no": "18",
+              "video_id": "4758804_0_9428804556991947",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Physics | Gravitation",
+              "class_no": "19",
+              "video_id": "4760690_0_6786025903626276",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Physics | Gravitation",
+              "class_no": "20",
+              "video_id": "4762558_0_9337383820363441",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Physics | Gravitation",
+              "class_no": "21",
+              "video_id": "4763230_0_7111713182904840",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Physics | Gravitation",
+              "class_no": "22",
+              "video_id": "4764522_0_7316087097631665",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Physics | Gravitation",
+              "class_no": "23",
+              "video_id": "4766045_0_2015116654649961",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Physics | Work Power & Energy",
+              "class_no": "24",
+              "video_id": "4767270_0_5389252153000125",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Physics | Work Power & Energy",
+              "class_no": "25",
+              "video_id": "4768124_0_6382272985006789",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Physics | Work Power & Energy",
+              "class_no": "26",
+              "video_id": "4770032_0_3220308534992185",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Phy | 10 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775845800/69d9be657db1d_sci_31_and_railwayB05_10april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775845800/69d9be657db1d_sci_31_and_railwayB05_10april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775845800/69d9be657db1d_sci_31_and_railwayB05_10april.pdf"
+            },
+            {
+              "title": "Phy | 13 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776018600/69dcb616b82cf_sci_31_and_railwayB05_06_13april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776018600/69dcb616b82cf_sci_31_and_railwayB05_06_13april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776018600/69dcb616b82cf_sci_31_and_railwayB05_06_13april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 14 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69de96468618b_sci_31_and_railwayB05_06_14april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69de96468618b_sci_31_and_railwayB05_06_14april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69de96468618b_sci_31_and_railwayB05_06_14april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 15 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69df077576a4a_sci_31_and_railwayB05_06_15april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69df077576a4a_sci_31_and_railwayB05_06_15april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69df077576a4a_sci_31_and_railwayB05_06_15april.pdf"
+            },
+            {
+              "title": "Phy | 16 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59d6c8d14f_sci_31_and_railwayB05_06_16april_1_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59d6c8d14f_sci_31_and_railwayB05_06_16april_1_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59d6c8d14f_sci_31_and_railwayB05_06_16april_1_compressed.pdf"
+            },
+            {
+              "title": "Phy | 17 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59dafe5d60_sci_31_and_railwayB05_06_17april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59dafe5d60_sci_31_and_railwayB05_06_17april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59dafe5d60_sci_31_and_railwayB05_06_17april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 20 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e6d38b058d3_sci_31_and_railwayB05_06_20april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e6d38b058d3_sci_31_and_railwayB05_06_20april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e6d38b058d3_sci_31_and_railwayB05_06_20april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 21 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7ba3842064_sci_31_and_railwayB05_06_21april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7ba3842064_sci_31_and_railwayB05_06_21april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7ba3842064_sci_31_and_railwayB05_06_21april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 22 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade2216b67_sci_31_and_railwayB05_06_22april_1.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade2216b67_sci_31_and_railwayB05_06_22april_1.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade2216b67_sci_31_and_railwayB05_06_22april_1.pdf"
+            },
+            {
+              "title": "Phy | 23 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade45a1aaa_sci_31_and_railwayB05_06_23april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade45a1aaa_sci_31_and_railwayB05_06_23april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade45a1aaa_sci_31_and_railwayB05_06_23april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 27 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef9eeb836f6_sci_31_and_railwayB05_06_27april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef9eeb836f6_sci_31_and_railwayB05_06_27april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef9eeb836f6_sci_31_and_railwayB05_06_27april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 28 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777314600/69f0ebfba3e02_sci_31_and_railwayB05_06_28april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777314600/69f0ebfba3e02_sci_31_and_railwayB05_06_28april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777314600/69f0ebfba3e02_sci_31_and_railwayB05_06_28april.pdf"
+            },
+            {
+              "title": "Phy | 29 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390879f6da_sci_31_and_railwayB05_06_29april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390879f6da_sci_31_and_railwayB05_06_29april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390879f6da_sci_31_and_railwayB05_06_29april.pdf"
+            },
+            {
+              "title": "Phy | 30 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390adac796_sci_31_and_railwayB05_06_30april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390adac796_sci_31_and_railwayB05_06_30april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390adac796_sci_31_and_railwayB05_06_30april.pdf"
+            },
+            {
+              "title": "Phy | 4 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe23e1d4833_sci_31_and_railwayB05_06_4may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe23e1d4833_sci_31_and_railwayB05_06_4may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe23e1d4833_sci_31_and_railwayB05_06_4may.pdf"
+            },
+            {
+              "title": "Phy | 6 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe241e400ec_sci_31_and_railwayB05_06_6may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe241e400ec_sci_31_and_railwayB05_06_6may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe241e400ec_sci_31_and_railwayB05_06_6may.pdf"
+            },
+            {
+              "title": "Phy | 7 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe243d04f29_sci_31_and_railwayB05_06_7may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe243d04f29_sci_31_and_railwayB05_06_7may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe243d04f29_sci_31_and_railwayB05_06_7may.pdf"
+            },
+            {
+              "title": "Phy | 8 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe246fdc54e_sci_31_and_railwayB05_06_8may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe246fdc54e_sci_31_and_railwayB05_06_8may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe246fdc54e_sci_31_and_railwayB05_06_8may.pdf"
+            },
+            {
+              "title": "Phy | 11 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f3057eff0_sci_31_and_railwayB05_06_11may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f3057eff0_sci_31_and_railwayB05_06_11may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f3057eff0_sci_31_and_railwayB05_06_11may.pdf"
+            },
+            {
+              "title": "Phy | 13 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f32a98069_sci_31_and_railwayB05_06_13may_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f32a98069_sci_31_and_railwayB05_06_13may_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f32a98069_sci_31_and_railwayB05_06_13may_compressed.pdf"
+            },
+            {
+              "title": "Phy | 14 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778697000/6a05fe3e6d1ef_sci_31_and_railwayB05_06_14may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778697000/6a05fe3e6d1ef_sci_31_and_railwayB05_06_14may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778697000/6a05fe3e6d1ef_sci_31_and_railwayB05_06_14may.pdf"
+            },
+            {
+              "title": "Phy | 15 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778869800/6a0770fb4cf13_sci_31_and_railwayB05_06_15may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778869800/6a0770fb4cf13_sci_31_and_railwayB05_06_15may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778869800/6a0770fb4cf13_sci_31_and_railwayB05_06_15may.pdf"
+            },
+            {
+              "title": "Phy | 18 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779129000/6a0bd4acd5433_sci_31_and_railwayB05_06_18may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779129000/6a0bd4acd5433_sci_31_and_railwayB05_06_18may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779129000/6a0bd4acd5433_sci_31_and_railwayB05_06_18may.pdf"
+            },
+            {
+              "title": "Phy | 19 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779215400/6a0d184ace04b_sci_31_and_railwayB05_06_19may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779215400/6a0d184ace04b_sci_31_and_railwayB05_06_19may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779215400/6a0d184ace04b_sci_31_and_railwayB05_06_19may.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36495,
+          "name": "Dilawar Sir Chemistry",
+          "total_videos": 34,
+          "total_pdfs": 24,
+          "videos": [
+            {
+              "title": "Class-1 | Chem | Matter",
+              "class_no": "1",
+              "video_id": "4725654_0_6788252326991181",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-2 | Chem | Matter",
+              "class_no": "2",
+              "video_id": "4727364_0_1018759647428641",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-3 | Chem | Matter",
+              "class_no": "3",
+              "video_id": "4728939_0_4732325171463773",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-4 | Chem | Matter",
+              "class_no": "4",
+              "video_id": "4729907_0_4441766867510723",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-5 | Chem | Matter",
+              "class_no": "5",
+              "video_id": "4730952_0_5600155828597425",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-6 | Chem | Atomic Model",
+              "class_no": "6",
+              "video_id": "4732621_0_7890405753435182",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-7 | Chem | Atomic Model",
+              "class_no": "7",
+              "video_id": "4734632_0_6949745836980831",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-8 | Chem | Atomic Model",
+              "class_no": "8",
+              "video_id": "4735527_0_4282002447299397",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-9 | Chem | Atomic Model",
+              "class_no": "9",
+              "video_id": "4736972_0_4984721499968797",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-10 | Chemistry",
+              "class_no": "10",
+              "video_id": "4739589_0_5143390859756784",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Chemistry",
+              "class_no": "11",
+              "video_id": "4740639_0_6052796900513522",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Chemistry",
+              "class_no": "12",
+              "video_id": "4741933_0_2095248246656893",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Isotope",
+              "class_no": "13",
+              "video_id": "4743099_0_2249623934985632",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Isotope",
+              "class_no": "14",
+              "video_id": "4744897_0_3444072365157850",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 |  Valency",
+              "class_no": "15",
+              "video_id": "4746535_0_2833818469682756",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 |  Chemical Bonding",
+              "class_no": "16",
+              "video_id": "4747411_0_9601633519182924",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Chemical Bonding",
+              "class_no": "17",
+              "video_id": "4748216_0_8202414220559223",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Coordinate Bond",
+              "class_no": "18",
+              "video_id": "4751540_0_2048018256817225",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Oxidation , Reduction and Redox Reaction",
+              "class_no": "19",
+              "video_id": "4753391_0_5329683841941541",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Oxidation , Reduction and Redox Reaction",
+              "class_no": "20",
+              "video_id": "4754084_0_3622010703634598",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Oxidation , Reduction and Redox Reaction",
+              "class_no": "21",
+              "video_id": "4755668_0_9514807931365269",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Oxidation , Reduction and Redox Reaction",
+              "class_no": "22",
+              "video_id": "4756492_0_5691487258486524",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Oxidation , Reduction and Redox Reaction",
+              "class_no": "23",
+              "video_id": "4757394_0_8940825707080462",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Acid Base and Salt",
+              "class_no": "24",
+              "video_id": "4758240_0_4840055336063001",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Acid Base and Salt",
+              "class_no": "25",
+              "video_id": "4759410_0_4076445447197696",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Acid Base and Salt",
+              "class_no": "26",
+              "video_id": "4761004_0_9933720287868083",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Acid Base and Salt",
+              "class_no": "27",
+              "video_id": "4761979_0_6627039064177684",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-28 | Acid Base and Salt",
+              "class_no": "28",
+              "video_id": "4762805_0_2774791880911893",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Acid Base and Salt",
+              "class_no": "29",
+              "video_id": "4763980_0_7980905934477116",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Acid Base and Salt",
+              "class_no": "30",
+              "video_id": "4764785_0_2180302985195550",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Classification of Elements",
+              "class_no": "31",
+              "video_id": "4766319_0_8708089520991699",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Classification of Elements",
+              "class_no": "32",
+              "video_id": "4767595_0_3973308561720805",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Classification of Elements",
+              "class_no": "33",
+              "video_id": "4768374_0_8893246950643067",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Periodic table",
+              "class_no": "34",
+              "video_id": "4769493_0_8948654022796117",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Phy | 10 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775845800/69d9be657db1d_sci_31_and_railwayB05_10april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775845800/69d9be657db1d_sci_31_and_railwayB05_10april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775845800/69d9be657db1d_sci_31_and_railwayB05_10april.pdf"
+            },
+            {
+              "title": "Phy | 13 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776018600/69dcb616b82cf_sci_31_and_railwayB05_06_13april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776018600/69dcb616b82cf_sci_31_and_railwayB05_06_13april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776018600/69dcb616b82cf_sci_31_and_railwayB05_06_13april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 14 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69de96468618b_sci_31_and_railwayB05_06_14april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69de96468618b_sci_31_and_railwayB05_06_14april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69de96468618b_sci_31_and_railwayB05_06_14april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 15 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69df077576a4a_sci_31_and_railwayB05_06_15april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69df077576a4a_sci_31_and_railwayB05_06_15april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69df077576a4a_sci_31_and_railwayB05_06_15april.pdf"
+            },
+            {
+              "title": "Phy | 16 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59d6c8d14f_sci_31_and_railwayB05_06_16april_1_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59d6c8d14f_sci_31_and_railwayB05_06_16april_1_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59d6c8d14f_sci_31_and_railwayB05_06_16april_1_compressed.pdf"
+            },
+            {
+              "title": "Phy | 17 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59dafe5d60_sci_31_and_railwayB05_06_17april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59dafe5d60_sci_31_and_railwayB05_06_17april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59dafe5d60_sci_31_and_railwayB05_06_17april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 20 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e6d38b058d3_sci_31_and_railwayB05_06_20april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e6d38b058d3_sci_31_and_railwayB05_06_20april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e6d38b058d3_sci_31_and_railwayB05_06_20april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 21 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7ba3842064_sci_31_and_railwayB05_06_21april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7ba3842064_sci_31_and_railwayB05_06_21april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7ba3842064_sci_31_and_railwayB05_06_21april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 22 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade2216b67_sci_31_and_railwayB05_06_22april_1.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade2216b67_sci_31_and_railwayB05_06_22april_1.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade2216b67_sci_31_and_railwayB05_06_22april_1.pdf"
+            },
+            {
+              "title": "Phy | 23 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade45a1aaa_sci_31_and_railwayB05_06_23april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade45a1aaa_sci_31_and_railwayB05_06_23april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade45a1aaa_sci_31_and_railwayB05_06_23april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 27 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef9eeb836f6_sci_31_and_railwayB05_06_27april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef9eeb836f6_sci_31_and_railwayB05_06_27april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef9eeb836f6_sci_31_and_railwayB05_06_27april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 28 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777314600/69f0ebfba3e02_sci_31_and_railwayB05_06_28april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777314600/69f0ebfba3e02_sci_31_and_railwayB05_06_28april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777314600/69f0ebfba3e02_sci_31_and_railwayB05_06_28april.pdf"
+            },
+            {
+              "title": "Phy | 29 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390879f6da_sci_31_and_railwayB05_06_29april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390879f6da_sci_31_and_railwayB05_06_29april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390879f6da_sci_31_and_railwayB05_06_29april.pdf"
+            },
+            {
+              "title": "Phy | 30 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390adac796_sci_31_and_railwayB05_06_30april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390adac796_sci_31_and_railwayB05_06_30april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390adac796_sci_31_and_railwayB05_06_30april.pdf"
+            },
+            {
+              "title": "Phy | 4 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe23e1d4833_sci_31_and_railwayB05_06_4may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe23e1d4833_sci_31_and_railwayB05_06_4may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe23e1d4833_sci_31_and_railwayB05_06_4may.pdf"
+            },
+            {
+              "title": "Phy | 6 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe241e400ec_sci_31_and_railwayB05_06_6may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe241e400ec_sci_31_and_railwayB05_06_6may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe241e400ec_sci_31_and_railwayB05_06_6may.pdf"
+            },
+            {
+              "title": "Phy | 7 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe243d04f29_sci_31_and_railwayB05_06_7may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe243d04f29_sci_31_and_railwayB05_06_7may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe243d04f29_sci_31_and_railwayB05_06_7may.pdf"
+            },
+            {
+              "title": "Phy | 8 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe246fdc54e_sci_31_and_railwayB05_06_8may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe246fdc54e_sci_31_and_railwayB05_06_8may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe246fdc54e_sci_31_and_railwayB05_06_8may.pdf"
+            },
+            {
+              "title": "Phy | 11 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f3057eff0_sci_31_and_railwayB05_06_11may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f3057eff0_sci_31_and_railwayB05_06_11may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f3057eff0_sci_31_and_railwayB05_06_11may.pdf"
+            },
+            {
+              "title": "Phy | 13 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f32a98069_sci_31_and_railwayB05_06_13may_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f32a98069_sci_31_and_railwayB05_06_13may_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f32a98069_sci_31_and_railwayB05_06_13may_compressed.pdf"
+            },
+            {
+              "title": "Phy | 14 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778697000/6a05fe3e6d1ef_sci_31_and_railwayB05_06_14may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778697000/6a05fe3e6d1ef_sci_31_and_railwayB05_06_14may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778697000/6a05fe3e6d1ef_sci_31_and_railwayB05_06_14may.pdf"
+            },
+            {
+              "title": "Phy | 15 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778869800/6a0770fb4cf13_sci_31_and_railwayB05_06_15may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778869800/6a0770fb4cf13_sci_31_and_railwayB05_06_15may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778869800/6a0770fb4cf13_sci_31_and_railwayB05_06_15may.pdf"
+            },
+            {
+              "title": "Phy | 18 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779129000/6a0bd4acd5433_sci_31_and_railwayB05_06_18may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779129000/6a0bd4acd5433_sci_31_and_railwayB05_06_18may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779129000/6a0bd4acd5433_sci_31_and_railwayB05_06_18may.pdf"
+            },
+            {
+              "title": "Phy | 19 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779215400/6a0d184ace04b_sci_31_and_railwayB05_06_19may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779215400/6a0d184ace04b_sci_31_and_railwayB05_06_19may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779215400/6a0d184ace04b_sci_31_and_railwayB05_06_19may.pdf"
+            }
+          ]
+        },
+        {
+          "id": 36496,
+          "name": "Zubair Sir Biology",
+          "total_videos": 42,
+          "total_pdfs": 24,
+          "videos": [
+            {
+              "title": "Class-01 | Bio | PLANT NUTRITION",
+              "class_no": "1",
+              "video_id": "4712874_0_8648913542893664",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-02 | Bio | PLANT NUTRITION",
+              "class_no": "2",
+              "video_id": "https://www.youtube.com/watch?v=TsKhNjfOTmA",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-03 | Bio | PLANT NUTRITION",
+              "class_no": "3",
+              "video_id": "4715297_0_8273865350737222",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-04 | Bio | Animal Nutrition",
+              "class_no": "4",
+              "video_id": "4716477_0_9920317982029466",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-05 | Bio | Animal Nutrition",
+              "class_no": "5",
+              "video_id": "4719385_0_3205409613889123",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-06 | Bio | Animal Nutrition",
+              "class_no": "6",
+              "video_id": "4720590_0_5533289464964360",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-07 | Bio | Animal Nutrition",
+              "class_no": "7",
+              "video_id": "4721628_0_3307678460420353",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-08 | Bio | Animal Nutrition",
+              "class_no": "8",
+              "video_id": "4723998_0_7910870045892925",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-09| Bio | Respiration",
+              "class_no": "9",
+              "video_id": "4725707_0_5416992656066083",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-11 | Bio | Respiration",
+              "class_no": "11",
+              "video_id": "4729013_0_9667920960832753",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-12 | Bio | Respiration",
+              "class_no": "12",
+              "video_id": "4729986_0_5263770229315801",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-13 | Bio | Respiration",
+              "class_no": "13",
+              "video_id": "4730999_0_5386308182490484",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-14 | Bio | Circulation",
+              "class_no": "14",
+              "video_id": "4732688_0_9583152174269243",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-15 | Bio | Circulation",
+              "class_no": "15",
+              "video_id": "4733658_0_8740834883784445",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-16 | Bio | Circulation",
+              "class_no": "16",
+              "video_id": "4734686_0_5805651433241388",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-17 | Bio | Circulation",
+              "class_no": "17",
+              "video_id": "4735607_0_3315932613568038",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-18 | Bio | Circulation + EXCRETION",
+              "class_no": "18",
+              "video_id": "4737030_0_6093812083796776",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-19 | Bio | EXCRETION",
+              "class_no": "19",
+              "video_id": "4738764_0_5468607061275079",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-20 | Bio | Animal Reproduction",
+              "class_no": "20",
+              "video_id": "4739676_0_6259421916085110",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-21 | Bio | Animal Reproduction",
+              "class_no": "21",
+              "video_id": "4740739_0_8338594163136089",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-22 | Bio | Animal Reproduction",
+              "class_no": "22",
+              "video_id": "4742028_0_4029264397515415",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-23 | Bio |  Animal Reproduction",
+              "class_no": "23",
+              "video_id": "4744974_0_8619129677168990",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-24 | Bio |  Animal Reproduction",
+              "class_no": "24",
+              "video_id": "4746611_0_4259792255513976",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-25 | Bio |  Plant Reproduction",
+              "class_no": "25",
+              "video_id": "4747463_0_1637821147232042",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-26 | Bio |  Plant Reproduction",
+              "class_no": "26",
+              "video_id": "4748320_0_6682853921468167",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-27 | Bio |  Plant Reproduction",
+              "class_no": "27",
+              "video_id": "4750261_0_2578493478715697",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-29 | Bio |  Asexual Reproduction",
+              "class_no": "28",
+              "video_id": "4751605_0_1070833615608474",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-30 | Bio |  Cytology",
+              "class_no": "29",
+              "video_id": "4752534_0_1285011175363600",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-31 | Bio |  Cytology",
+              "class_no": "30",
+              "video_id": "4753455_0_3387671622839958",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-32 | Bio |  Cytology",
+              "class_no": "31",
+              "video_id": "4754151_0_6698124204378903",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-33 | Bio |  Cytology",
+              "class_no": "32",
+              "video_id": "4755728_0_9444978732316751",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-34 | Bio |    DNA",
+              "class_no": "33",
+              "video_id": "4757454_0_2953938389876764",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-35 | Bio |  DNA",
+              "class_no": "34",
+              "video_id": "4758330_0_3816839228061596",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-36 | Bio |  Cell Division",
+              "class_no": "35",
+              "video_id": "4759489_0_8931391758633856",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-37 | Bio |  Animal Tissue",
+              "class_no": "36",
+              "video_id": "4761156_0_7625344172485178",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-38 | Bio |  Animal Tissue",
+              "class_no": "37",
+              "video_id": "4762866_0_3887476807970296",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-39 | Bio |  Nervous System",
+              "class_no": "38",
+              "video_id": "4764090_0_7538302595263966",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-40 | Bio |  Nervous System",
+              "class_no": "39",
+              "video_id": "4764865_0_9273563905508240",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-41 | Bio | Skeletal System",
+              "class_no": "40",
+              "video_id": "4766367_0_6163220602232881",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-42 | Bio |  Human Skeletal System",
+              "class_no": "41",
+              "video_id": "4768433_0_8616933896739804",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-43 | Bio |  Blood",
+              "class_no": "42",
+              "video_id": "4769547_0_4826013924816359",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            },
+            {
+              "title": "Class-44 | Bio |  Blood",
+              "class_no": "43",
+              "video_id": "4770377_0_5378561008828602",
+              "video_url": null,
+              "hls_url": null,
+              "duration": "",
+              "date": ""
+            }
+          ],
+          "pdfs": [
+            {
+              "title": "Phy | 10 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775845800/69d9be657db1d_sci_31_and_railwayB05_10april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775845800/69d9be657db1d_sci_31_and_railwayB05_10april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1775845800/69d9be657db1d_sci_31_and_railwayB05_10april.pdf"
+            },
+            {
+              "title": "Phy | 13 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776018600/69dcb616b82cf_sci_31_and_railwayB05_06_13april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776018600/69dcb616b82cf_sci_31_and_railwayB05_06_13april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776018600/69dcb616b82cf_sci_31_and_railwayB05_06_13april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 14 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69de96468618b_sci_31_and_railwayB05_06_14april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69de96468618b_sci_31_and_railwayB05_06_14april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69de96468618b_sci_31_and_railwayB05_06_14april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 15 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69df077576a4a_sci_31_and_railwayB05_06_15april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69df077576a4a_sci_31_and_railwayB05_06_15april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776191400/69df077576a4a_sci_31_and_railwayB05_06_15april.pdf"
+            },
+            {
+              "title": "Phy | 16 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59d6c8d14f_sci_31_and_railwayB05_06_16april_1_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59d6c8d14f_sci_31_and_railwayB05_06_16april_1_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59d6c8d14f_sci_31_and_railwayB05_06_16april_1_compressed.pdf"
+            },
+            {
+              "title": "Phy | 17 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59dafe5d60_sci_31_and_railwayB05_06_17april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59dafe5d60_sci_31_and_railwayB05_06_17april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776623400/69e59dafe5d60_sci_31_and_railwayB05_06_17april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 20 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e6d38b058d3_sci_31_and_railwayB05_06_20april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e6d38b058d3_sci_31_and_railwayB05_06_20april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e6d38b058d3_sci_31_and_railwayB05_06_20april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 21 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7ba3842064_sci_31_and_railwayB05_06_21april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7ba3842064_sci_31_and_railwayB05_06_21april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776709800/69e7ba3842064_sci_31_and_railwayB05_06_21april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 22 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade2216b67_sci_31_and_railwayB05_06_22april_1.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade2216b67_sci_31_and_railwayB05_06_22april_1.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade2216b67_sci_31_and_railwayB05_06_22april_1.pdf"
+            },
+            {
+              "title": "Phy | 23 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade45a1aaa_sci_31_and_railwayB05_06_23april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade45a1aaa_sci_31_and_railwayB05_06_23april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1776969000/69eade45a1aaa_sci_31_and_railwayB05_06_23april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 27 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef9eeb836f6_sci_31_and_railwayB05_06_27april_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef9eeb836f6_sci_31_and_railwayB05_06_27april_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777228200/69ef9eeb836f6_sci_31_and_railwayB05_06_27april_compressed.pdf"
+            },
+            {
+              "title": "Phy | 28 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777314600/69f0ebfba3e02_sci_31_and_railwayB05_06_28april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777314600/69f0ebfba3e02_sci_31_and_railwayB05_06_28april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777314600/69f0ebfba3e02_sci_31_and_railwayB05_06_28april.pdf"
+            },
+            {
+              "title": "Phy | 29 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390879f6da_sci_31_and_railwayB05_06_29april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390879f6da_sci_31_and_railwayB05_06_29april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390879f6da_sci_31_and_railwayB05_06_29april.pdf"
+            },
+            {
+              "title": "Phy | 30 April | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390adac796_sci_31_and_railwayB05_06_30april.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390adac796_sci_31_and_railwayB05_06_30april.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1777487400/69f390adac796_sci_31_and_railwayB05_06_30april.pdf"
+            },
+            {
+              "title": "Phy | 4 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe23e1d4833_sci_31_and_railwayB05_06_4may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe23e1d4833_sci_31_and_railwayB05_06_4may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe23e1d4833_sci_31_and_railwayB05_06_4may.pdf"
+            },
+            {
+              "title": "Phy | 6 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe241e400ec_sci_31_and_railwayB05_06_6may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe241e400ec_sci_31_and_railwayB05_06_6may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe241e400ec_sci_31_and_railwayB05_06_6may.pdf"
+            },
+            {
+              "title": "Phy | 7 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe243d04f29_sci_31_and_railwayB05_06_7may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe243d04f29_sci_31_and_railwayB05_06_7may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe243d04f29_sci_31_and_railwayB05_06_7may.pdf"
+            },
+            {
+              "title": "Phy | 8 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe246fdc54e_sci_31_and_railwayB05_06_8may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe246fdc54e_sci_31_and_railwayB05_06_8may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778178600/69fe246fdc54e_sci_31_and_railwayB05_06_8may.pdf"
+            },
+            {
+              "title": "Phy | 11 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f3057eff0_sci_31_and_railwayB05_06_11may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f3057eff0_sci_31_and_railwayB05_06_11may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f3057eff0_sci_31_and_railwayB05_06_11may.pdf"
+            },
+            {
+              "title": "Phy | 13 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f32a98069_sci_31_and_railwayB05_06_13may_compressed.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f32a98069_sci_31_and_railwayB05_06_13may_compressed.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778610600/6a03f32a98069_sci_31_and_railwayB05_06_13may_compressed.pdf"
+            },
+            {
+              "title": "Phy | 14 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778697000/6a05fe3e6d1ef_sci_31_and_railwayB05_06_14may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778697000/6a05fe3e6d1ef_sci_31_and_railwayB05_06_14may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778697000/6a05fe3e6d1ef_sci_31_and_railwayB05_06_14may.pdf"
+            },
+            {
+              "title": "Phy | 15 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778869800/6a0770fb4cf13_sci_31_and_railwayB05_06_15may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778869800/6a0770fb4cf13_sci_31_and_railwayB05_06_15may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1778869800/6a0770fb4cf13_sci_31_and_railwayB05_06_15may.pdf"
+            },
+            {
+              "title": "Phy | 18 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779129000/6a0bd4acd5433_sci_31_and_railwayB05_06_18may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779129000/6a0bd4acd5433_sci_31_and_railwayB05_06_18may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779129000/6a0bd4acd5433_sci_31_and_railwayB05_06_18may.pdf"
+            },
+            {
+              "title": "Phy | 19 May | Class PNG",
+              "view_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779215400/6a0d184ace04b_sci_31_and_railwayB05_06_19may.pdf",
+              "download_url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779215400/6a0d184ace04b_sci_31_and_railwayB05_06_19may.pdf&key=scammer09876",
+              "file_url": null,
+              "pdf_url": null,
+              "best_url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/batch-notes/1779215400/6a0d184ace04b_sci_31_and_railwayB05_06_19may.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
